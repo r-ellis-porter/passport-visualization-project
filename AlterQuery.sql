@@ -13,8 +13,8 @@
 ALTER TABLE country_passport_merge 
 ADD visafree_days varchar(100);
 
-SELECT * FROM country_passport_merge
-WHERE visafree_days = '28';
+--SELECT * FROM country_passport_merge
+--WHERE visafree_days = '28';
 
 UPDATE country_passport_merge
 SET visafree_days = requirement
