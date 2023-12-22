@@ -119,7 +119,7 @@
 117,Afghanistan,AF,Morocco,MA,visa required
 118,Afghanistan,AF,Mozambique,MZ,visa on arrival
 119,Afghanistan,AF,Myanmar,MM,visa required
-120,Afghanistan,AF,Namibia,,visa required
+120,Afghanistan,AF,Namibia,NA,visa required
 121,Afghanistan,AF,Nauru,NR,visa required
 122,Afghanistan,AF,Nepal,NP,visa required
 123,Afghanistan,AF,Netherlands,NL,visa required
@@ -318,7 +318,7 @@
 316,Albania,AL,Morocco,MA,visa required
 317,Albania,AL,Mozambique,MZ,visa on arrival
 318,Albania,AL,Myanmar,MM,e-visa
-319,Albania,AL,Namibia,,visa required
+319,Albania,AL,Namibia,NA,visa required
 320,Albania,AL,Nauru,NR,visa required
 321,Albania,AL,Nepal,NP,visa on arrival
 322,Albania,AL,Netherlands,NL,90
@@ -517,7 +517,7 @@
 515,Algeria,DZ,Morocco,MA,90
 516,Algeria,DZ,Mozambique,MZ,visa on arrival
 517,Algeria,DZ,Myanmar,MM,e-visa
-518,Algeria,DZ,Namibia,,visa required
+518,Algeria,DZ,Namibia,NA,visa required
 519,Algeria,DZ,Nauru,NR,visa required
 520,Algeria,DZ,Nepal,NP,visa on arrival
 521,Algeria,DZ,Netherlands,NL,visa required
@@ -716,7 +716,7 @@
 714,Andorra,AD,Morocco,MA,90
 715,Andorra,AD,Mozambique,MZ,visa on arrival
 716,Andorra,AD,Myanmar,MM,visa required
-717,Andorra,AD,Namibia,,visa required
+717,Andorra,AD,Namibia,NA,visa required
 718,Andorra,AD,Nauru,NR,visa required
 719,Andorra,AD,Nepal,NP,visa on arrival
 720,Andorra,AD,Netherlands,NL,90
@@ -915,7 +915,7 @@
 913,Angola,AO,Morocco,MA,visa required
 914,Angola,AO,Mozambique,MZ,30
 915,Angola,AO,Myanmar,MM,visa required
-916,Angola,AO,Namibia,,90
+916,Angola,AO,Namibia,NA,90
 917,Angola,AO,Nauru,NR,visa required
 918,Angola,AO,Nepal,NP,visa on arrival
 919,Angola,AO,Netherlands,NL,visa required
@@ -1114,7 +1114,7 @@
 1112,Antigua and Barbuda,AG,Morocco,MA,visa required
 1113,Antigua and Barbuda,AG,Mozambique,MZ,visa on arrival
 1114,Antigua and Barbuda,AG,Myanmar,MM,visa required
-1115,Antigua and Barbuda,AG,Namibia,,visa required
+1115,Antigua and Barbuda,AG,Namibia,NA,visa required
 1116,Antigua and Barbuda,AG,Nauru,NR,visa required
 1117,Antigua and Barbuda,AG,Nepal,NP,visa on arrival
 1118,Antigua and Barbuda,AG,Netherlands,NL,90
@@ -1313,7 +1313,7 @@
 1311,Argentina,AR,Morocco,MA,90
 1312,Argentina,AR,Mozambique,MZ,visa on arrival
 1313,Argentina,AR,Myanmar,MM,e-visa
-1314,Argentina,AR,Namibia,,visa required
+1314,Argentina,AR,Namibia,NA,visa required
 1315,Argentina,AR,Nauru,NR,visa required
 1316,Argentina,AR,Nepal,NP,visa on arrival
 1317,Argentina,AR,Netherlands,NL,90
@@ -1512,7 +1512,7 @@
 1510,Armenia,AM,Morocco,MA,visa required
 1511,Armenia,AM,Mozambique,MZ,visa on arrival
 1512,Armenia,AM,Myanmar,MM,visa required
-1513,Armenia,AM,Namibia,,90
+1513,Armenia,AM,Namibia,NA,90
 1514,Armenia,AM,Nauru,NR,visa required
 1515,Armenia,AM,Nepal,NP,visa on arrival
 1516,Armenia,AM,Netherlands,NL,visa required
@@ -1711,7 +1711,7 @@
 1709,Australia,AU,Morocco,MA,90
 1710,Australia,AU,Mozambique,MZ,visa on arrival
 1711,Australia,AU,Myanmar,MM,e-visa
-1712,Australia,AU,Namibia,,90
+1712,Australia,AU,Namibia,NA,90
 1713,Australia,AU,Nauru,NR,visa required
 1714,Australia,AU,Nepal,NP,visa on arrival
 1715,Australia,AU,Netherlands,NL,90
@@ -1910,7 +1910,7 @@
 1908,Austria,AT,Morocco,MA,90
 1909,Austria,AT,Mozambique,MZ,visa on arrival
 1910,Austria,AT,Myanmar,MM,e-visa
-1911,Austria,AT,Namibia,,90
+1911,Austria,AT,Namibia,NA,90
 1912,Austria,AT,Nauru,NR,visa required
 1913,Austria,AT,Nepal,NP,visa on arrival
 1914,Austria,AT,Netherlands,NL,visa free
@@ -2109,7 +2109,7 @@
 2107,Azerbaijan,AZ,Morocco,MA,visa required
 2108,Azerbaijan,AZ,Mozambique,MZ,visa on arrival
 2109,Azerbaijan,AZ,Myanmar,MM,visa required
-2110,Azerbaijan,AZ,Namibia,,90
+2110,Azerbaijan,AZ,Namibia,NA,90
 2111,Azerbaijan,AZ,Nauru,NR,visa required
 2112,Azerbaijan,AZ,Nepal,NP,visa on arrival
 2113,Azerbaijan,AZ,Netherlands,NL,visa required
@@ -2308,7 +2308,7 @@
 2306,Bahamas,BS,Morocco,MA,visa required
 2307,Bahamas,BS,Mozambique,MZ,visa on arrival
 2308,Bahamas,BS,Myanmar,MM,visa required
-2309,Bahamas,BS,Namibia,,visa required
+2309,Bahamas,BS,Namibia,NA,visa required
 2310,Bahamas,BS,Nauru,NR,visa required
 2311,Bahamas,BS,Nepal,NP,visa on arrival
 2312,Bahamas,BS,Netherlands,NL,90
@@ -2507,7 +2507,7 @@
 2505,Bahrain,BH,Morocco,MA,90
 2506,Bahrain,BH,Mozambique,MZ,visa on arrival
 2507,Bahrain,BH,Myanmar,MM,visa required
-2508,Bahrain,BH,Namibia,,visa required
+2508,Bahrain,BH,Namibia,NA,visa required
 2509,Bahrain,BH,Nauru,NR,visa required
 2510,Bahrain,BH,Nepal,NP,visa on arrival
 2511,Bahrain,BH,Netherlands,NL,visa required
@@ -2706,7 +2706,7 @@
 2704,Bangladesh,BD,Morocco,MA,visa required
 2705,Bangladesh,BD,Mozambique,MZ,e-visa
 2706,Bangladesh,BD,Myanmar,MM,e-visa
-2707,Bangladesh,BD,Namibia,,visa required
+2707,Bangladesh,BD,Namibia,NA,visa required
 2708,Bangladesh,BD,Nauru,NR,visa required
 2709,Bangladesh,BD,Nepal,NP,visa on arrival
 2710,Bangladesh,BD,Netherlands,NL,visa required
@@ -2905,7 +2905,7 @@
 2903,Barbados,BB,Morocco,MA,visa required
 2904,Barbados,BB,Mozambique,MZ,visa on arrival
 2905,Barbados,BB,Myanmar,MM,visa required
-2906,Barbados,BB,Namibia,,visa required
+2906,Barbados,BB,Namibia,NA,visa required
 2907,Barbados,BB,Nauru,NR,visa required
 2908,Barbados,BB,Nepal,NP,visa on arrival
 2909,Barbados,BB,Netherlands,NL,90
@@ -3104,7 +3104,7 @@
 3102,Belarus,BY,Morocco,MA,visa required
 3103,Belarus,BY,Mozambique,MZ,visa on arrival
 3104,Belarus,BY,Myanmar,MM,e-visa
-3105,Belarus,BY,Namibia,,90
+3105,Belarus,BY,Namibia,NA,90
 3106,Belarus,BY,Nauru,NR,visa required
 3107,Belarus,BY,Nepal,NP,visa on arrival
 3108,Belarus,BY,Netherlands,NL,visa required
@@ -3303,7 +3303,7 @@
 3301,Belgium,BE,Morocco,MA,90
 3302,Belgium,BE,Mozambique,MZ,30
 3303,Belgium,BE,Myanmar,MM,e-visa
-3304,Belgium,BE,Namibia,,90
+3304,Belgium,BE,Namibia,NA,90
 3305,Belgium,BE,Nauru,NR,visa required
 3306,Belgium,BE,Nepal,NP,visa on arrival
 3307,Belgium,BE,Netherlands,NL,visa free
@@ -3502,7 +3502,7 @@
 3500,Belize,BZ,Morocco,MA,visa required
 3501,Belize,BZ,Mozambique,MZ,visa on arrival
 3502,Belize,BZ,Myanmar,MM,visa required
-3503,Belize,BZ,Namibia,,visa required
+3503,Belize,BZ,Namibia,NA,visa required
 3504,Belize,BZ,Nauru,NR,visa required
 3505,Belize,BZ,Nepal,NP,visa on arrival
 3506,Belize,BZ,Netherlands,NL,visa required
@@ -3701,7 +3701,7 @@
 3699,Benin,BJ,Morocco,MA,visa required
 3700,Benin,BJ,Mozambique,MZ,visa on arrival
 3701,Benin,BJ,Myanmar,MM,visa required
-3702,Benin,BJ,Namibia,,visa on arrival
+3702,Benin,BJ,Namibia,NA,visa on arrival
 3703,Benin,BJ,Nauru,NR,visa required
 3704,Benin,BJ,Nepal,NP,visa on arrival
 3705,Benin,BJ,Netherlands,NL,visa required
@@ -3900,7 +3900,7 @@
 3898,Bhutan,BT,Morocco,MA,visa required
 3899,Bhutan,BT,Mozambique,MZ,visa on arrival
 3900,Bhutan,BT,Myanmar,MM,e-visa
-3901,Bhutan,BT,Namibia,,visa required
+3901,Bhutan,BT,Namibia,NA,visa required
 3902,Bhutan,BT,Nauru,NR,visa required
 3903,Bhutan,BT,Nepal,NP,visa on arrival
 3904,Bhutan,BT,Netherlands,NL,visa required
@@ -4099,7 +4099,7 @@
 4097,Bolivia,BO,Morocco,MA,visa required
 4098,Bolivia,BO,Mozambique,MZ,visa on arrival
 4099,Bolivia,BO,Myanmar,MM,e-visa
-4100,Bolivia,BO,Namibia,,visa required
+4100,Bolivia,BO,Namibia,NA,visa required
 4101,Bolivia,BO,Nauru,NR,visa required
 4102,Bolivia,BO,Nepal,NP,visa on arrival
 4103,Bolivia,BO,Netherlands,NL,visa required
@@ -4298,7 +4298,7 @@
 4296,Bosnia and Herzegovina,BA,Morocco,MA,visa required
 4297,Bosnia and Herzegovina,BA,Mozambique,MZ,visa on arrival
 4298,Bosnia and Herzegovina,BA,Myanmar,MM,e-visa
-4299,Bosnia and Herzegovina,BA,Namibia,,visa required
+4299,Bosnia and Herzegovina,BA,Namibia,NA,visa required
 4300,Bosnia and Herzegovina,BA,Nauru,NR,visa required
 4301,Bosnia and Herzegovina,BA,Nepal,NP,visa on arrival
 4302,Bosnia and Herzegovina,BA,Netherlands,NL,90
@@ -4497,7 +4497,7 @@
 4495,Botswana,BW,Morocco,MA,visa required
 4496,Botswana,BW,Mozambique,MZ,visa free
 4497,Botswana,BW,Myanmar,MM,visa required
-4498,Botswana,BW,Namibia,,90
+4498,Botswana,BW,Namibia,NA,90
 4499,Botswana,BW,Nauru,NR,visa required
 4500,Botswana,BW,Nepal,NP,visa on arrival
 4501,Botswana,BW,Netherlands,NL,visa required
@@ -4696,7 +4696,7 @@
 4694,Brazil,BR,Morocco,MA,90
 4695,Brazil,BR,Mozambique,MZ,visa on arrival
 4696,Brazil,BR,Myanmar,MM,e-visa
-4697,Brazil,BR,Namibia,,90
+4697,Brazil,BR,Namibia,NA,90
 4698,Brazil,BR,Nauru,NR,visa required
 4699,Brazil,BR,Nepal,NP,visa on arrival
 4700,Brazil,BR,Netherlands,NL,90
@@ -4895,7 +4895,7 @@
 4893,Brunei,BN,Morocco,MA,visa required
 4894,Brunei,BN,Mozambique,MZ,visa on arrival
 4895,Brunei,BN,Myanmar,MM,14
-4896,Brunei,BN,Namibia,,visa required
+4896,Brunei,BN,Namibia,NA,visa required
 4897,Brunei,BN,Nauru,NR,visa required
 4898,Brunei,BN,Nepal,NP,visa on arrival
 4899,Brunei,BN,Netherlands,NL,90
@@ -5094,7 +5094,7 @@
 5092,Bulgaria,BG,Morocco,MA,90
 5093,Bulgaria,BG,Mozambique,MZ,visa on arrival
 5094,Bulgaria,BG,Myanmar,MM,e-visa
-5095,Bulgaria,BG,Namibia,,visa on arrival
+5095,Bulgaria,BG,Namibia,NA,visa on arrival
 5096,Bulgaria,BG,Nauru,NR,visa required
 5097,Bulgaria,BG,Nepal,NP,visa on arrival
 5098,Bulgaria,BG,Netherlands,NL,visa free
@@ -5293,7 +5293,7 @@
 5291,Burkina Faso,BF,Morocco,MA,90
 5292,Burkina Faso,BF,Mozambique,MZ,visa on arrival
 5293,Burkina Faso,BF,Myanmar,MM,visa required
-5294,Burkina Faso,BF,Namibia,,visa on arrival
+5294,Burkina Faso,BF,Namibia,NA,visa on arrival
 5295,Burkina Faso,BF,Nauru,NR,visa required
 5296,Burkina Faso,BF,Nepal,NP,visa on arrival
 5297,Burkina Faso,BF,Netherlands,NL,visa required
@@ -5492,7 +5492,7 @@
 5490,Burundi,BI,Morocco,MA,visa required
 5491,Burundi,BI,Mozambique,MZ,visa on arrival
 5492,Burundi,BI,Myanmar,MM,visa required
-5493,Burundi,BI,Namibia,,visa on arrival
+5493,Burundi,BI,Namibia,NA,visa on arrival
 5494,Burundi,BI,Nauru,NR,visa required
 5495,Burundi,BI,Nepal,NP,visa on arrival
 5496,Burundi,BI,Netherlands,NL,visa required
@@ -5691,7 +5691,7 @@
 5689,Cambodia,KH,Morocco,MA,visa required
 5690,Cambodia,KH,Mozambique,MZ,visa on arrival
 5691,Cambodia,KH,Myanmar,MM,14
-5692,Cambodia,KH,Namibia,,visa on arrival
+5692,Cambodia,KH,Namibia,NA,visa on arrival
 5693,Cambodia,KH,Nauru,NR,visa required
 5694,Cambodia,KH,Nepal,NP,visa on arrival
 5695,Cambodia,KH,Netherlands,NL,visa required
@@ -5890,7 +5890,7 @@
 5888,Cameroon,CM,Morocco,MA,visa required
 5889,Cameroon,CM,Mozambique,MZ,visa on arrival
 5890,Cameroon,CM,Myanmar,MM,e-visa
-5891,Cameroon,CM,Namibia,,visa on arrival
+5891,Cameroon,CM,Namibia,NA,visa on arrival
 5892,Cameroon,CM,Nauru,NR,visa required
 5893,Cameroon,CM,Nepal,NP,visa required
 5894,Cameroon,CM,Netherlands,NL,visa required
@@ -6089,7 +6089,7 @@
 6087,Canada,CA,Morocco,MA,90
 6088,Canada,CA,Mozambique,MZ,30
 6089,Canada,CA,Myanmar,MM,e-visa
-6090,Canada,CA,Namibia,,90
+6090,Canada,CA,Namibia,NA,90
 6091,Canada,CA,Nauru,NR,visa required
 6092,Canada,CA,Nepal,NP,visa on arrival
 6093,Canada,CA,Netherlands,NL,90
@@ -6288,7 +6288,7 @@
 6286,Cape Verde,CV,Morocco,MA,visa required
 6287,Cape Verde,CV,Mozambique,MZ,visa on arrival
 6288,Cape Verde,CV,Myanmar,MM,visa required
-6289,Cape Verde,CV,Namibia,,visa on arrival
+6289,Cape Verde,CV,Namibia,NA,visa on arrival
 6290,Cape Verde,CV,Nauru,NR,visa required
 6291,Cape Verde,CV,Nepal,NP,visa on arrival
 6292,Cape Verde,CV,Netherlands,NL,visa required
@@ -6487,7 +6487,7 @@
 6485,Central African Republic,CF,Morocco,MA,visa required
 6486,Central African Republic,CF,Mozambique,MZ,visa on arrival
 6487,Central African Republic,CF,Myanmar,MM,visa required
-6488,Central African Republic,CF,Namibia,,visa on arrival
+6488,Central African Republic,CF,Namibia,NA,visa on arrival
 6489,Central African Republic,CF,Nauru,NR,visa required
 6490,Central African Republic,CF,Nepal,NP,visa on arrival
 6491,Central African Republic,CF,Netherlands,NL,visa required
@@ -6686,7 +6686,7 @@
 6684,Chad,TD,Morocco,MA,visa required
 6685,Chad,TD,Mozambique,MZ,visa on arrival
 6686,Chad,TD,Myanmar,MM,visa required
-6687,Chad,TD,Namibia,,visa on arrival
+6687,Chad,TD,Namibia,NA,visa on arrival
 6688,Chad,TD,Nauru,NR,visa required
 6689,Chad,TD,Nepal,NP,visa on arrival
 6690,Chad,TD,Netherlands,NL,visa required
@@ -6885,7 +6885,7 @@
 6883,Chile,CL,Morocco,MA,90
 6884,Chile,CL,Mozambique,MZ,visa on arrival
 6885,Chile,CL,Myanmar,MM,e-visa
-6886,Chile,CL,Namibia,,visa on arrival
+6886,Chile,CL,Namibia,NA,visa on arrival
 6887,Chile,CL,Nauru,NR,visa required
 6888,Chile,CL,Nepal,NP,visa on arrival
 6889,Chile,CL,Netherlands,NL,90
@@ -7084,7 +7084,7 @@
 7082,China,CN,Morocco,MA,90
 7083,China,CN,Mozambique,MZ,30
 7084,China,CN,Myanmar,MM,visa on arrival
-7085,China,CN,Namibia,,visa required
+7085,China,CN,Namibia,NA,visa required
 7086,China,CN,Nauru,NR,visa required
 7087,China,CN,Nepal,NP,visa on arrival
 7088,China,CN,Netherlands,NL,visa required
@@ -7283,7 +7283,7 @@
 7281,Colombia,CO,Morocco,MA,90
 7282,Colombia,CO,Mozambique,MZ,visa on arrival
 7283,Colombia,CO,Myanmar,MM,e-visa
-7284,Colombia,CO,Namibia,,visa required
+7284,Colombia,CO,Namibia,NA,visa required
 7285,Colombia,CO,Nauru,NR,visa required
 7286,Colombia,CO,Nepal,NP,visa on arrival
 7287,Colombia,CO,Netherlands,NL,90
@@ -7482,7 +7482,7 @@
 7480,Comoros,KM,Morocco,MA,visa required
 7481,Comoros,KM,Mozambique,MZ,visa on arrival
 7482,Comoros,KM,Myanmar,MM,visa required
-7483,Comoros,KM,Namibia,,visa on arrival
+7483,Comoros,KM,Namibia,NA,visa on arrival
 7484,Comoros,KM,Nauru,NR,visa required
 7485,Comoros,KM,Nepal,NP,visa on arrival
 7486,Comoros,KM,Netherlands,NL,visa required
@@ -7681,7 +7681,7 @@
 7679,Congo,CG,Morocco,MA,e-visa
 7680,Congo,CG,Mozambique,MZ,visa on arrival
 7681,Congo,CG,Myanmar,MM,visa required
-7682,Congo,CG,Namibia,,visa required
+7682,Congo,CG,Namibia,NA,visa required
 7683,Congo,CG,Nauru,NR,visa required
 7684,Congo,CG,Nepal,NP,visa on arrival
 7685,Congo,CG,Netherlands,NL,visa required
@@ -7880,7 +7880,7 @@
 7878,DR Congo,CD,Morocco,MA,visa required
 7879,DR Congo,CD,Mozambique,MZ,visa on arrival
 7880,DR Congo,CD,Myanmar,MM,visa required
-7881,DR Congo,CD,Namibia,,visa required
+7881,DR Congo,CD,Namibia,NA,visa required
 7882,DR Congo,CD,Nauru,NR,visa required
 7883,DR Congo,CD,Nepal,NP,visa on arrival
 7884,DR Congo,CD,Netherlands,NL,visa required
@@ -8079,7 +8079,7 @@
 8077,Costa Rica,CR,Morocco,MA,visa required
 8078,Costa Rica,CR,Mozambique,MZ,visa on arrival
 8079,Costa Rica,CR,Myanmar,MM,e-visa
-8080,Costa Rica,CR,Namibia,,visa required
+8080,Costa Rica,CR,Namibia,NA,visa required
 8081,Costa Rica,CR,Nauru,NR,visa required
 8082,Costa Rica,CR,Nepal,NP,visa on arrival
 8083,Costa Rica,CR,Netherlands,NL,90
@@ -8278,7 +8278,7 @@
 8276,Ivory Coast,CI,Morocco,MA,90
 8277,Ivory Coast,CI,Mozambique,MZ,30
 8278,Ivory Coast,CI,Myanmar,MM,e-visa
-8279,Ivory Coast,CI,Namibia,,visa on arrival
+8279,Ivory Coast,CI,Namibia,NA,visa on arrival
 8280,Ivory Coast,CI,Nauru,NR,visa required
 8281,Ivory Coast,CI,Nepal,NP,visa on arrival
 8282,Ivory Coast,CI,Netherlands,NL,visa required
@@ -8477,7 +8477,7 @@
 8475,Croatia,HR,Morocco,MA,90
 8476,Croatia,HR,Mozambique,MZ,visa on arrival
 8477,Croatia,HR,Myanmar,MM,e-visa
-8478,Croatia,HR,Namibia,,visa required
+8478,Croatia,HR,Namibia,NA,visa required
 8479,Croatia,HR,Nauru,NR,visa required
 8480,Croatia,HR,Nepal,NP,visa on arrival
 8481,Croatia,HR,Netherlands,NL,visa free
@@ -8676,7 +8676,7 @@
 8674,Cuba,CU,Morocco,MA,visa required
 8675,Cuba,CU,Mozambique,MZ,visa on arrival
 8676,Cuba,CU,Myanmar,MM,visa required
-8677,Cuba,CU,Namibia,,90
+8677,Cuba,CU,Namibia,NA,90
 8678,Cuba,CU,Nauru,NR,visa required
 8679,Cuba,CU,Nepal,NP,visa on arrival
 8680,Cuba,CU,Netherlands,NL,visa required
@@ -8875,7 +8875,7 @@
 8873,Cyprus,CY,Morocco,MA,90
 8874,Cyprus,CY,Mozambique,MZ,visa on arrival
 8875,Cyprus,CY,Myanmar,MM,e-visa
-8876,Cyprus,CY,Namibia,,visa required
+8876,Cyprus,CY,Namibia,NA,visa required
 8877,Cyprus,CY,Nauru,NR,visa required
 8878,Cyprus,CY,Nepal,NP,visa on arrival
 8879,Cyprus,CY,Netherlands,NL,visa free
@@ -9074,7 +9074,7 @@
 9072,Czech Republic,CZ,Morocco,MA,90
 9073,Czech Republic,CZ,Mozambique,MZ,visa on arrival
 9074,Czech Republic,CZ,Myanmar,MM,e-visa
-9075,Czech Republic,CZ,Namibia,,visa on arrival
+9075,Czech Republic,CZ,Namibia,NA,visa on arrival
 9076,Czech Republic,CZ,Nauru,NR,visa required
 9077,Czech Republic,CZ,Nepal,NP,visa on arrival
 9078,Czech Republic,CZ,Netherlands,NL,visa free
@@ -9273,7 +9273,7 @@
 9271,Denmark,DK,Morocco,MA,90
 9272,Denmark,DK,Mozambique,MZ,30
 9273,Denmark,DK,Myanmar,MM,e-visa
-9274,Denmark,DK,Namibia,,90
+9274,Denmark,DK,Namibia,NA,90
 9275,Denmark,DK,Nauru,NR,visa required
 9276,Denmark,DK,Nepal,NP,visa on arrival
 9277,Denmark,DK,Netherlands,NL,visa free
@@ -9472,7 +9472,7 @@
 9470,Djibouti,DJ,Morocco,MA,visa required
 9471,Djibouti,DJ,Mozambique,MZ,visa on arrival
 9472,Djibouti,DJ,Myanmar,MM,visa required
-9473,Djibouti,DJ,Namibia,,visa on arrival
+9473,Djibouti,DJ,Namibia,NA,visa on arrival
 9474,Djibouti,DJ,Nauru,NR,visa required
 9475,Djibouti,DJ,Nepal,NP,visa on arrival
 9476,Djibouti,DJ,Netherlands,NL,visa required
@@ -9671,7 +9671,7 @@
 9669,Dominica,DM,Morocco,MA,visa required
 9670,Dominica,DM,Mozambique,MZ,visa on arrival
 9671,Dominica,DM,Myanmar,MM,visa required
-9672,Dominica,DM,Namibia,,visa required
+9672,Dominica,DM,Namibia,NA,visa required
 9673,Dominica,DM,Nauru,NR,visa required
 9674,Dominica,DM,Nepal,NP,visa on arrival
 9675,Dominica,DM,Netherlands,NL,90
@@ -9870,7 +9870,7 @@
 9868,Dominican Republic,DO,Morocco,MA,60
 9869,Dominican Republic,DO,Mozambique,MZ,visa on arrival
 9870,Dominican Republic,DO,Myanmar,MM,visa required
-9871,Dominican Republic,DO,Namibia,,visa required
+9871,Dominican Republic,DO,Namibia,NA,visa required
 9872,Dominican Republic,DO,Nauru,NR,visa required
 9873,Dominican Republic,DO,Nepal,NP,visa on arrival
 9874,Dominican Republic,DO,Netherlands,NL,visa required
@@ -10069,7 +10069,7 @@
 10067,Ecuador,EC,Morocco,MA,visa required
 10068,Ecuador,EC,Mozambique,MZ,visa on arrival
 10069,Ecuador,EC,Myanmar,MM,e-visa
-10070,Ecuador,EC,Namibia,,visa required
+10070,Ecuador,EC,Namibia,NA,visa required
 10071,Ecuador,EC,Nauru,NR,visa required
 10072,Ecuador,EC,Nepal,NP,visa on arrival
 10073,Ecuador,EC,Netherlands,NL,visa required
@@ -10268,7 +10268,7 @@
 10266,Egypt,EG,Morocco,MA,visa required
 10267,Egypt,EG,Mozambique,MZ,visa on arrival
 10268,Egypt,EG,Myanmar,MM,e-visa
-10269,Egypt,EG,Namibia,,visa required
+10269,Egypt,EG,Namibia,NA,visa required
 10270,Egypt,EG,Nauru,NR,visa required
 10271,Egypt,EG,Nepal,NP,visa on arrival
 10272,Egypt,EG,Netherlands,NL,visa required
@@ -10467,7 +10467,7 @@
 10465,El Salvador,SV,Morocco,MA,visa required
 10466,El Salvador,SV,Mozambique,MZ,visa on arrival
 10467,El Salvador,SV,Myanmar,MM,visa required
-10468,El Salvador,SV,Namibia,,visa required
+10468,El Salvador,SV,Namibia,NA,visa required
 10469,El Salvador,SV,Nauru,NR,visa required
 10470,El Salvador,SV,Nepal,NP,visa on arrival
 10471,El Salvador,SV,Netherlands,NL,90
@@ -10666,7 +10666,7 @@
 10664,Equatorial Guinea,GQ,Morocco,MA,visa required
 10665,Equatorial Guinea,GQ,Mozambique,MZ,visa on arrival
 10666,Equatorial Guinea,GQ,Myanmar,MM,visa required
-10667,Equatorial Guinea,GQ,Namibia,,visa on arrival
+10667,Equatorial Guinea,GQ,Namibia,NA,visa on arrival
 10668,Equatorial Guinea,GQ,Nauru,NR,visa required
 10669,Equatorial Guinea,GQ,Nepal,NP,visa on arrival
 10670,Equatorial Guinea,GQ,Netherlands,NL,visa required
@@ -10865,7 +10865,7 @@
 10863,Eritrea,ER,Morocco,MA,visa required
 10864,Eritrea,ER,Mozambique,MZ,e-visa
 10865,Eritrea,ER,Myanmar,MM,e-visa
-10866,Eritrea,ER,Namibia,,visa on arrival
+10866,Eritrea,ER,Namibia,NA,visa on arrival
 10867,Eritrea,ER,Nauru,NR,visa required
 10868,Eritrea,ER,Nepal,NP,visa on arrival
 10869,Eritrea,ER,Netherlands,NL,visa required
@@ -11064,7 +11064,7 @@
 11062,Estonia,EE,Morocco,MA,90
 11063,Estonia,EE,Mozambique,MZ,visa on arrival
 11064,Estonia,EE,Myanmar,MM,e-visa
-11065,Estonia,EE,Namibia,,visa required
+11065,Estonia,EE,Namibia,NA,visa required
 11066,Estonia,EE,Nauru,NR,visa required
 11067,Estonia,EE,Nepal,NP,visa on arrival
 11068,Estonia,EE,Netherlands,NL,visa free
@@ -11263,7 +11263,7 @@
 11261,Swaziland,SZ,Morocco,MA,visa required
 11262,Swaziland,SZ,Mozambique,MZ,visa free
 11263,Swaziland,SZ,Myanmar,MM,visa required
-11264,Swaziland,SZ,Namibia,,90
+11264,Swaziland,SZ,Namibia,NA,90
 11265,Swaziland,SZ,Nauru,NR,visa required
 11266,Swaziland,SZ,Nepal,NP,visa required
 11267,Swaziland,SZ,Netherlands,NL,visa required
@@ -11462,7 +11462,7 @@
 11460,Ethiopia,ET,Morocco,MA,visa required
 11461,Ethiopia,ET,Mozambique,MZ,visa on arrival
 11462,Ethiopia,ET,Myanmar,MM,visa required
-11463,Ethiopia,ET,Namibia,,visa required
+11463,Ethiopia,ET,Namibia,NA,visa required
 11464,Ethiopia,ET,Nauru,NR,visa required
 11465,Ethiopia,ET,Nepal,NP,visa required
 11466,Ethiopia,ET,Netherlands,NL,visa required
@@ -11661,7 +11661,7 @@
 11659,Fiji,FJ,Morocco,MA,visa required
 11660,Fiji,FJ,Mozambique,MZ,visa on arrival
 11661,Fiji,FJ,Myanmar,MM,e-visa
-11662,Fiji,FJ,Namibia,,visa required
+11662,Fiji,FJ,Namibia,NA,visa required
 11663,Fiji,FJ,Nauru,NR,visa on arrival
 11664,Fiji,FJ,Nepal,NP,visa on arrival
 11665,Fiji,FJ,Netherlands,NL,visa required
@@ -11860,7 +11860,7 @@
 11858,Finland,FI,Morocco,MA,90
 11859,Finland,FI,Mozambique,MZ,30
 11860,Finland,FI,Myanmar,MM,e-visa
-11861,Finland,FI,Namibia,,90
+11861,Finland,FI,Namibia,NA,90
 11862,Finland,FI,Nauru,NR,visa required
 11863,Finland,FI,Nepal,NP,visa on arrival
 11864,Finland,FI,Netherlands,NL,visa free
@@ -12059,7 +12059,7 @@
 12057,France,FR,Morocco,MA,90
 12058,France,FR,Mozambique,MZ,30
 12059,France,FR,Myanmar,MM,e-visa
-12060,France,FR,Namibia,,90
+12060,France,FR,Namibia,NA,90
 12061,France,FR,Nauru,NR,visa required
 12062,France,FR,Nepal,NP,visa on arrival
 12063,France,FR,Netherlands,NL,visa free
@@ -12258,7 +12258,7 @@
 12256,Gabon,GA,Morocco,MA,90
 12257,Gabon,GA,Mozambique,MZ,visa on arrival
 12258,Gabon,GA,Myanmar,MM,visa required
-12259,Gabon,GA,Namibia,,visa on arrival
+12259,Gabon,GA,Namibia,NA,visa on arrival
 12260,Gabon,GA,Nauru,NR,visa required
 12261,Gabon,GA,Nepal,NP,visa on arrival
 12262,Gabon,GA,Netherlands,NL,visa required
@@ -12457,7 +12457,7 @@
 12455,Gambia,GM,Morocco,MA,visa required
 12456,Gambia,GM,Mozambique,MZ,visa on arrival
 12457,Gambia,GM,Myanmar,MM,visa required
-12458,Gambia,GM,Namibia,,visa on arrival
+12458,Gambia,GM,Namibia,NA,visa on arrival
 12459,Gambia,GM,Nauru,NR,visa required
 12460,Gambia,GM,Nepal,NP,visa on arrival
 12461,Gambia,GM,Netherlands,NL,visa required
@@ -12656,7 +12656,7 @@
 12654,Georgia,GE,Morocco,MA,visa required
 12655,Georgia,GE,Mozambique,MZ,visa on arrival
 12656,Georgia,GE,Myanmar,MM,e-visa
-12657,Georgia,GE,Namibia,,visa required
+12657,Georgia,GE,Namibia,NA,visa required
 12658,Georgia,GE,Nauru,NR,visa required
 12659,Georgia,GE,Nepal,NP,visa on arrival
 12660,Georgia,GE,Netherlands,NL,90
@@ -12855,7 +12855,7 @@
 12853,Germany,DE,Morocco,MA,90
 12854,Germany,DE,Mozambique,MZ,30
 12855,Germany,DE,Myanmar,MM,e-visa
-12856,Germany,DE,Namibia,,90
+12856,Germany,DE,Namibia,NA,90
 12857,Germany,DE,Nauru,NR,visa required
 12858,Germany,DE,Nepal,NP,visa on arrival
 12859,Germany,DE,Netherlands,NL,visa free
@@ -13054,7 +13054,7 @@
 13052,Ghana,GH,Morocco,MA,visa required
 13053,Ghana,GH,Mozambique,MZ,30
 13054,Ghana,GH,Myanmar,MM,e-visa
-13055,Ghana,GH,Namibia,,visa required
+13055,Ghana,GH,Namibia,NA,visa required
 13056,Ghana,GH,Nauru,NR,visa required
 13057,Ghana,GH,Nepal,NP,visa required
 13058,Ghana,GH,Netherlands,NL,visa required
@@ -13253,7 +13253,7 @@
 13251,Greece,GR,Morocco,MA,90
 13252,Greece,GR,Mozambique,MZ,visa on arrival
 13253,Greece,GR,Myanmar,MM,e-visa
-13254,Greece,GR,Namibia,,visa required
+13254,Greece,GR,Namibia,NA,visa required
 13255,Greece,GR,Nauru,NR,visa required
 13256,Greece,GR,Nepal,NP,visa on arrival
 13257,Greece,GR,Netherlands,NL,visa free
@@ -13452,7 +13452,7 @@
 13450,Grenada,GD,Morocco,MA,visa required
 13451,Grenada,GD,Mozambique,MZ,visa on arrival
 13452,Grenada,GD,Myanmar,MM,visa required
-13453,Grenada,GD,Namibia,,visa required
+13453,Grenada,GD,Namibia,NA,visa required
 13454,Grenada,GD,Nauru,NR,visa required
 13455,Grenada,GD,Nepal,NP,visa on arrival
 13456,Grenada,GD,Netherlands,NL,90
@@ -13651,7 +13651,7 @@
 13649,Guatemala,GT,Morocco,MA,visa required
 13650,Guatemala,GT,Mozambique,MZ,visa on arrival
 13651,Guatemala,GT,Myanmar,MM,e-visa
-13652,Guatemala,GT,Namibia,,visa required
+13652,Guatemala,GT,Namibia,NA,visa required
 13653,Guatemala,GT,Nauru,NR,visa required
 13654,Guatemala,GT,Nepal,NP,visa on arrival
 13655,Guatemala,GT,Netherlands,NL,90
@@ -13850,7 +13850,7 @@
 13848,Guinea,GN,Morocco,MA,e-visa
 13849,Guinea,GN,Mozambique,MZ,visa on arrival
 13850,Guinea,GN,Myanmar,MM,e-visa
-13851,Guinea,GN,Namibia,,visa on arrival
+13851,Guinea,GN,Namibia,NA,visa on arrival
 13852,Guinea,GN,Nauru,NR,visa required
 13853,Guinea,GN,Nepal,NP,visa on arrival
 13854,Guinea,GN,Netherlands,NL,visa required
@@ -14049,7 +14049,7 @@
 14047,Guinea-Bissau,GW,Morocco,MA,visa required
 14048,Guinea-Bissau,GW,Mozambique,MZ,visa on arrival
 14049,Guinea-Bissau,GW,Myanmar,MM,visa required
-14050,Guinea-Bissau,GW,Namibia,,visa on arrival
+14050,Guinea-Bissau,GW,Namibia,NA,visa on arrival
 14051,Guinea-Bissau,GW,Nauru,NR,visa required
 14052,Guinea-Bissau,GW,Nepal,NP,visa on arrival
 14053,Guinea-Bissau,GW,Netherlands,NL,visa required
@@ -14248,7 +14248,7 @@
 14246,Guyana,GY,Morocco,MA,visa required
 14247,Guyana,GY,Mozambique,MZ,visa on arrival
 14248,Guyana,GY,Myanmar,MM,visa required
-14249,Guyana,GY,Namibia,,visa required
+14249,Guyana,GY,Namibia,NA,visa required
 14250,Guyana,GY,Nauru,NR,visa required
 14251,Guyana,GY,Nepal,NP,visa on arrival
 14252,Guyana,GY,Netherlands,NL,visa required
@@ -14447,7 +14447,7 @@
 14445,Haiti,HT,Morocco,MA,visa required
 14446,Haiti,HT,Mozambique,MZ,visa on arrival
 14447,Haiti,HT,Myanmar,MM,visa required
-14448,Haiti,HT,Namibia,,visa required
+14448,Haiti,HT,Namibia,NA,visa required
 14449,Haiti,HT,Nauru,NR,visa required
 14450,Haiti,HT,Nepal,NP,visa on arrival
 14451,Haiti,HT,Netherlands,NL,visa required
@@ -14646,7 +14646,7 @@
 14644,Honduras,HN,Morocco,MA,visa required
 14645,Honduras,HN,Mozambique,MZ,visa on arrival
 14646,Honduras,HN,Myanmar,MM,visa required
-14647,Honduras,HN,Namibia,,visa required
+14647,Honduras,HN,Namibia,NA,visa required
 14648,Honduras,HN,Nauru,NR,visa required
 14649,Honduras,HN,Nepal,NP,visa on arrival
 14650,Honduras,HN,Netherlands,NL,90
@@ -14845,7 +14845,7 @@
 14843,Hong Kong,HK,Morocco,MA,30
 14844,Hong Kong,HK,Mozambique,MZ,visa on arrival
 14845,Hong Kong,HK,Myanmar,MM,e-visa
-14846,Hong Kong,HK,Namibia,,90
+14846,Hong Kong,HK,Namibia,NA,90
 14847,Hong Kong,HK,Nauru,NR,visa required
 14848,Hong Kong,HK,Nepal,NP,visa on arrival
 14849,Hong Kong,HK,Netherlands,NL,90
@@ -15044,7 +15044,7 @@
 15042,Hungary,HU,Morocco,MA,90
 15043,Hungary,HU,Mozambique,MZ,visa on arrival
 15044,Hungary,HU,Myanmar,MM,e-visa
-15045,Hungary,HU,Namibia,,visa on arrival
+15045,Hungary,HU,Namibia,NA,visa on arrival
 15046,Hungary,HU,Nauru,NR,visa required
 15047,Hungary,HU,Nepal,NP,visa on arrival
 15048,Hungary,HU,Netherlands,NL,visa free
@@ -15243,7 +15243,7 @@
 15241,Iceland,IS,Morocco,MA,90
 15242,Iceland,IS,Mozambique,MZ,visa on arrival
 15243,Iceland,IS,Myanmar,MM,e-visa
-15244,Iceland,IS,Namibia,,90
+15244,Iceland,IS,Namibia,NA,90
 15245,Iceland,IS,Nauru,NR,visa required
 15246,Iceland,IS,Nepal,NP,visa on arrival
 15247,Iceland,IS,Netherlands,NL,visa free
@@ -15442,7 +15442,7 @@
 15440,India,IN,Morocco,MA,e-visa
 15441,India,IN,Mozambique,MZ,e-visa
 15442,India,IN,Myanmar,MM,visa on arrival
-15443,India,IN,Namibia,,visa required
+15443,India,IN,Namibia,NA,visa required
 15444,India,IN,Nauru,NR,visa required
 15445,India,IN,Nepal,NP,visa free
 15446,India,IN,Netherlands,NL,visa required
@@ -15641,7 +15641,7 @@
 15639,Indonesia,ID,Morocco,MA,90
 15640,Indonesia,ID,Mozambique,MZ,visa on arrival
 15641,Indonesia,ID,Myanmar,MM,14
-15642,Indonesia,ID,Namibia,,30
+15642,Indonesia,ID,Namibia,NA,30
 15643,Indonesia,ID,Nauru,NR,visa required
 15644,Indonesia,ID,Nepal,NP,visa on arrival
 15645,Indonesia,ID,Netherlands,NL,visa required
@@ -15840,7 +15840,7 @@
 15838,Iran,IR,Morocco,MA,visa required
 15839,Iran,IR,Mozambique,MZ,visa on arrival
 15840,Iran,IR,Myanmar,MM,visa required
-15841,Iran,IR,Namibia,,visa required
+15841,Iran,IR,Namibia,NA,visa required
 15842,Iran,IR,Nauru,NR,visa required
 15843,Iran,IR,Nepal,NP,visa on arrival
 15844,Iran,IR,Netherlands,NL,visa required
@@ -16039,7 +16039,7 @@
 16037,Iraq,IQ,Morocco,MA,visa required
 16038,Iraq,IQ,Mozambique,MZ,visa on arrival
 16039,Iraq,IQ,Myanmar,MM,visa required
-16040,Iraq,IQ,Namibia,,visa required
+16040,Iraq,IQ,Namibia,NA,visa required
 16041,Iraq,IQ,Nauru,NR,visa required
 16042,Iraq,IQ,Nepal,NP,visa required
 16043,Iraq,IQ,Netherlands,NL,visa required
@@ -16238,7 +16238,7 @@
 16236,Ireland,IE,Morocco,MA,90
 16237,Ireland,IE,Mozambique,MZ,30
 16238,Ireland,IE,Myanmar,MM,e-visa
-16239,Ireland,IE,Namibia,,90
+16239,Ireland,IE,Namibia,NA,90
 16240,Ireland,IE,Nauru,NR,visa required
 16241,Ireland,IE,Nepal,NP,visa on arrival
 16242,Ireland,IE,Netherlands,NL,visa free
@@ -16437,7 +16437,7 @@
 16435,Israel,IL,Morocco,MA,e-visa
 16436,Israel,IL,Mozambique,MZ,30
 16437,Israel,IL,Myanmar,MM,e-visa
-16438,Israel,IL,Namibia,,visa required
+16438,Israel,IL,Namibia,NA,visa required
 16439,Israel,IL,Nauru,NR,visa on arrival
 16440,Israel,IL,Nepal,NP,visa on arrival
 16441,Israel,IL,Netherlands,NL,90
@@ -16636,7 +16636,7 @@
 16634,Italy,IT,Morocco,MA,90
 16635,Italy,IT,Mozambique,MZ,30
 16636,Italy,IT,Myanmar,MM,e-visa
-16637,Italy,IT,Namibia,,90
+16637,Italy,IT,Namibia,NA,90
 16638,Italy,IT,Nauru,NR,visa required
 16639,Italy,IT,Nepal,NP,visa on arrival
 16640,Italy,IT,Netherlands,NL,visa free
@@ -16835,7 +16835,7 @@
 16833,Jamaica,JM,Morocco,MA,visa required
 16834,Jamaica,JM,Mozambique,MZ,visa on arrival
 16835,Jamaica,JM,Myanmar,MM,e-visa
-16836,Jamaica,JM,Namibia,,90
+16836,Jamaica,JM,Namibia,NA,90
 16837,Jamaica,JM,Nauru,NR,visa required
 16838,Jamaica,JM,Nepal,NP,visa on arrival
 16839,Jamaica,JM,Netherlands,NL,visa required
@@ -17034,7 +17034,7 @@
 17032,Japan,JP,Morocco,MA,90
 17033,Japan,JP,Mozambique,MZ,30
 17034,Japan,JP,Myanmar,MM,e-visa
-17035,Japan,JP,Namibia,,90
+17035,Japan,JP,Namibia,NA,90
 17036,Japan,JP,Nauru,NR,visa required
 17037,Japan,JP,Nepal,NP,visa on arrival
 17038,Japan,JP,Netherlands,NL,90
@@ -17233,7 +17233,7 @@
 17231,Jordan,JO,Morocco,MA,e-visa
 17232,Jordan,JO,Mozambique,MZ,visa on arrival
 17233,Jordan,JO,Myanmar,MM,e-visa
-17234,Jordan,JO,Namibia,,visa required
+17234,Jordan,JO,Namibia,NA,visa required
 17235,Jordan,JO,Nauru,NR,visa required
 17236,Jordan,JO,Nepal,NP,visa on arrival
 17237,Jordan,JO,Netherlands,NL,visa required
@@ -17432,7 +17432,7 @@
 17430,Kazakhstan,KZ,Morocco,MA,visa required
 17431,Kazakhstan,KZ,Mozambique,MZ,visa on arrival
 17432,Kazakhstan,KZ,Myanmar,MM,e-visa
-17433,Kazakhstan,KZ,Namibia,,90
+17433,Kazakhstan,KZ,Namibia,NA,90
 17434,Kazakhstan,KZ,Nauru,NR,visa required
 17435,Kazakhstan,KZ,Nepal,NP,visa on arrival
 17436,Kazakhstan,KZ,Netherlands,NL,visa required
@@ -17631,7 +17631,7 @@
 17629,Kenya,KE,Morocco,MA,visa required
 17630,Kenya,KE,Mozambique,MZ,visa on arrival
 17631,Kenya,KE,Myanmar,MM,e-visa
-17632,Kenya,KE,Namibia,,90
+17632,Kenya,KE,Namibia,NA,90
 17633,Kenya,KE,Nauru,NR,visa required
 17634,Kenya,KE,Nepal,NP,visa on arrival
 17635,Kenya,KE,Netherlands,NL,visa required
@@ -17830,7 +17830,7 @@
 17828,Kiribati,KI,Morocco,MA,visa required
 17829,Kiribati,KI,Mozambique,MZ,visa on arrival
 17830,Kiribati,KI,Myanmar,MM,visa required
-17831,Kiribati,KI,Namibia,,visa required
+17831,Kiribati,KI,Namibia,NA,visa required
 17832,Kiribati,KI,Nauru,NR,visa required
 17833,Kiribati,KI,Nepal,NP,visa on arrival
 17834,Kiribati,KI,Netherlands,NL,90
@@ -18029,7 +18029,7 @@
 18027,Kosovo,XK,Morocco,MA,visa required
 18028,Kosovo,XK,Mozambique,MZ,visa on arrival
 18029,Kosovo,XK,Myanmar,MM,visa required
-18030,Kosovo,XK,Namibia,,visa required
+18030,Kosovo,XK,Namibia,NA,visa required
 18031,Kosovo,XK,Nauru,NR,visa required
 18032,Kosovo,XK,Nepal,NP,visa on arrival
 18033,Kosovo,XK,Netherlands,NL,visa required
@@ -18228,7 +18228,7 @@
 18226,Kuwait,KW,Morocco,MA,90
 18227,Kuwait,KW,Mozambique,MZ,visa on arrival
 18228,Kuwait,KW,Myanmar,MM,e-visa
-18229,Kuwait,KW,Namibia,,visa required
+18229,Kuwait,KW,Namibia,NA,visa required
 18230,Kuwait,KW,Nauru,NR,visa required
 18231,Kuwait,KW,Nepal,NP,visa on arrival
 18232,Kuwait,KW,Netherlands,NL,visa required
@@ -18427,7 +18427,7 @@
 18425,Kyrgyzstan,KG,Morocco,MA,visa required
 18426,Kyrgyzstan,KG,Mozambique,MZ,visa on arrival
 18427,Kyrgyzstan,KG,Myanmar,MM,e-visa
-18428,Kyrgyzstan,KG,Namibia,,90
+18428,Kyrgyzstan,KG,Namibia,NA,90
 18429,Kyrgyzstan,KG,Nauru,NR,visa required
 18430,Kyrgyzstan,KG,Nepal,NP,visa on arrival
 18431,Kyrgyzstan,KG,Netherlands,NL,visa required
@@ -18626,7 +18626,7 @@
 18624,Laos,LA,Morocco,MA,visa required
 18625,Laos,LA,Mozambique,MZ,visa on arrival
 18626,Laos,LA,Myanmar,MM,14
-18627,Laos,LA,Namibia,,visa required
+18627,Laos,LA,Namibia,NA,visa required
 18628,Laos,LA,Nauru,NR,visa required
 18629,Laos,LA,Nepal,NP,visa on arrival
 18630,Laos,LA,Netherlands,NL,visa required
@@ -18825,7 +18825,7 @@
 18823,Latvia,LV,Morocco,MA,90
 18824,Latvia,LV,Mozambique,MZ,visa on arrival
 18825,Latvia,LV,Myanmar,MM,e-visa
-18826,Latvia,LV,Namibia,,visa required
+18826,Latvia,LV,Namibia,NA,visa required
 18827,Latvia,LV,Nauru,NR,visa required
 18828,Latvia,LV,Nepal,NP,visa on arrival
 18829,Latvia,LV,Netherlands,NL,visa free
@@ -19024,7 +19024,7 @@
 19022,Lebanon,LB,Morocco,MA,visa required
 19023,Lebanon,LB,Mozambique,MZ,visa on arrival
 19024,Lebanon,LB,Myanmar,MM,visa required
-19025,Lebanon,LB,Namibia,,visa required
+19025,Lebanon,LB,Namibia,NA,visa required
 19026,Lebanon,LB,Nauru,NR,visa required
 19027,Lebanon,LB,Nepal,NP,visa on arrival
 19028,Lebanon,LB,Netherlands,NL,visa required
@@ -19223,7 +19223,7 @@
 19221,Lesotho,LS,Morocco,MA,visa required
 19222,Lesotho,LS,Mozambique,MZ,visa on arrival
 19223,Lesotho,LS,Myanmar,MM,visa required
-19224,Lesotho,LS,Namibia,,90
+19224,Lesotho,LS,Namibia,NA,90
 19225,Lesotho,LS,Nauru,NR,visa required
 19226,Lesotho,LS,Nepal,NP,visa on arrival
 19227,Lesotho,LS,Netherlands,NL,visa required
@@ -19422,7 +19422,7 @@
 19420,Liberia,LR,Morocco,MA,visa required
 19421,Liberia,LR,Mozambique,MZ,visa on arrival
 19422,Liberia,LR,Myanmar,MM,visa required
-19423,Liberia,LR,Namibia,,visa on arrival
+19423,Liberia,LR,Namibia,NA,visa on arrival
 19424,Liberia,LR,Nauru,NR,visa required
 19425,Liberia,LR,Nepal,NP,visa required
 19426,Liberia,LR,Netherlands,NL,visa required
@@ -19621,7 +19621,7 @@
 19619,Libya,LY,Morocco,MA,visa required
 19620,Libya,LY,Mozambique,MZ,visa on arrival
 19621,Libya,LY,Myanmar,MM,visa required
-19622,Libya,LY,Namibia,,visa required
+19622,Libya,LY,Namibia,NA,visa required
 19623,Libya,LY,Nauru,NR,visa required
 19624,Libya,LY,Nepal,NP,visa on arrival
 19625,Libya,LY,Netherlands,NL,visa required
@@ -19820,7 +19820,7 @@
 19818,Liechtenstein,LI,Morocco,MA,90
 19819,Liechtenstein,LI,Mozambique,MZ,visa on arrival
 19820,Liechtenstein,LI,Myanmar,MM,visa required
-19821,Liechtenstein,LI,Namibia,,90
+19821,Liechtenstein,LI,Namibia,NA,90
 19822,Liechtenstein,LI,Nauru,NR,visa required
 19823,Liechtenstein,LI,Nepal,NP,visa on arrival
 19824,Liechtenstein,LI,Netherlands,NL,visa free
@@ -20019,7 +20019,7 @@
 20017,Lithuania,LT,Morocco,MA,90
 20018,Lithuania,LT,Mozambique,MZ,visa on arrival
 20019,Lithuania,LT,Myanmar,MM,e-visa
-20020,Lithuania,LT,Namibia,,visa required
+20020,Lithuania,LT,Namibia,NA,visa required
 20021,Lithuania,LT,Nauru,NR,visa required
 20022,Lithuania,LT,Nepal,NP,visa on arrival
 20023,Lithuania,LT,Netherlands,NL,visa free
@@ -20218,7 +20218,7 @@
 20216,Luxembourg,LU,Morocco,MA,90
 20217,Luxembourg,LU,Mozambique,MZ,visa on arrival
 20218,Luxembourg,LU,Myanmar,MM,e-visa
-20219,Luxembourg,LU,Namibia,,90
+20219,Luxembourg,LU,Namibia,NA,90
 20220,Luxembourg,LU,Nauru,NR,visa required
 20221,Luxembourg,LU,Nepal,NP,visa on arrival
 20222,Luxembourg,LU,Netherlands,NL,visa free
@@ -20417,7 +20417,7 @@
 20415,Macao,MO,Morocco,MA,90
 20416,Macao,MO,Mozambique,MZ,visa on arrival
 20417,Macao,MO,Myanmar,MM,visa required
-20418,Macao,MO,Namibia,,90
+20418,Macao,MO,Namibia,NA,90
 20419,Macao,MO,Nauru,NR,visa required
 20420,Macao,MO,Nepal,NP,visa on arrival
 20421,Macao,MO,Netherlands,NL,90
@@ -20616,7 +20616,7 @@
 20614,Madagascar,MG,Morocco,MA,visa required
 20615,Madagascar,MG,Mozambique,MZ,visa on arrival
 20616,Madagascar,MG,Myanmar,MM,visa required
-20617,Madagascar,MG,Namibia,,visa on arrival
+20617,Madagascar,MG,Namibia,NA,visa on arrival
 20618,Madagascar,MG,Nauru,NR,visa required
 20619,Madagascar,MG,Nepal,NP,visa on arrival
 20620,Madagascar,MG,Netherlands,NL,visa required
@@ -20815,7 +20815,7 @@
 20813,Malawi,MW,Morocco,MA,visa required
 20814,Malawi,MW,Mozambique,MZ,visa free
 20815,Malawi,MW,Myanmar,MM,visa required
-20816,Malawi,MW,Namibia,,90
+20816,Malawi,MW,Namibia,NA,90
 20817,Malawi,MW,Nauru,NR,visa required
 20818,Malawi,MW,Nepal,NP,visa on arrival
 20819,Malawi,MW,Netherlands,NL,visa required
@@ -21014,7 +21014,7 @@
 21012,Malaysia,MY,Morocco,MA,90
 21013,Malaysia,MY,Mozambique,MZ,visa on arrival
 21014,Malaysia,MY,Myanmar,MM,e-visa
-21015,Malaysia,MY,Namibia,,90
+21015,Malaysia,MY,Namibia,NA,90
 21016,Malaysia,MY,Nauru,NR,visa required
 21017,Malaysia,MY,Nepal,NP,visa on arrival
 21018,Malaysia,MY,Netherlands,NL,90
@@ -21213,7 +21213,7 @@
 21211,Maldives,MV,Morocco,MA,30
 21212,Maldives,MV,Mozambique,MZ,visa on arrival
 21213,Maldives,MV,Myanmar,MM,e-visa
-21214,Maldives,MV,Namibia,,visa required
+21214,Maldives,MV,Namibia,NA,visa required
 21215,Maldives,MV,Nauru,NR,visa required
 21216,Maldives,MV,Nepal,NP,visa on arrival
 21217,Maldives,MV,Netherlands,NL,visa required
@@ -21412,7 +21412,7 @@
 21410,Mali,ML,Morocco,MA,e-visa
 21411,Mali,ML,Mozambique,MZ,visa on arrival
 21412,Mali,ML,Myanmar,MM,visa required
-21413,Mali,ML,Namibia,,visa required
+21413,Mali,ML,Namibia,NA,visa required
 21414,Mali,ML,Nauru,NR,visa required
 21415,Mali,ML,Nepal,NP,visa on arrival
 21416,Mali,ML,Netherlands,NL,visa required
@@ -21611,7 +21611,7 @@
 21609,Malta,MT,Morocco,MA,90
 21610,Malta,MT,Mozambique,MZ,visa on arrival
 21611,Malta,MT,Myanmar,MM,e-visa
-21612,Malta,MT,Namibia,,visa required
+21612,Malta,MT,Namibia,NA,visa required
 21613,Malta,MT,Nauru,NR,visa required
 21614,Malta,MT,Nepal,NP,visa on arrival
 21615,Malta,MT,Netherlands,NL,visa free
@@ -21810,7 +21810,7 @@
 21808,Marshall Islands,MH,Morocco,MA,visa required
 21809,Marshall Islands,MH,Mozambique,MZ,visa on arrival
 21810,Marshall Islands,MH,Myanmar,MM,visa required
-21811,Marshall Islands,MH,Namibia,,visa required
+21811,Marshall Islands,MH,Namibia,NA,visa required
 21812,Marshall Islands,MH,Nauru,NR,visa on arrival
 21813,Marshall Islands,MH,Nepal,NP,visa on arrival
 21814,Marshall Islands,MH,Netherlands,NL,90
@@ -22009,7 +22009,7 @@
 22007,Mauritania,MR,Morocco,MA,visa required
 22008,Mauritania,MR,Mozambique,MZ,visa on arrival
 22009,Mauritania,MR,Myanmar,MM,visa required
-22010,Mauritania,MR,Namibia,,visa required
+22010,Mauritania,MR,Namibia,NA,visa required
 22011,Mauritania,MR,Nauru,NR,visa required
 22012,Mauritania,MR,Nepal,NP,visa on arrival
 22013,Mauritania,MR,Netherlands,NL,visa required
@@ -22208,7 +22208,7 @@
 22206,Mauritius,MU,Morocco,MA,visa required
 22207,Mauritius,MU,Mozambique,MZ,visa free
 22208,Mauritius,MU,Myanmar,MM,e-visa
-22209,Mauritius,MU,Namibia,,90
+22209,Mauritius,MU,Namibia,NA,90
 22210,Mauritius,MU,Nauru,NR,visa required
 22211,Mauritius,MU,Nepal,NP,visa on arrival
 22212,Mauritius,MU,Netherlands,NL,90
@@ -22407,7 +22407,7 @@
 22405,Mexico,MX,Morocco,MA,90
 22406,Mexico,MX,Mozambique,MZ,visa on arrival
 22407,Mexico,MX,Myanmar,MM,e-visa
-22408,Mexico,MX,Namibia,,visa on arrival
+22408,Mexico,MX,Namibia,NA,visa on arrival
 22409,Mexico,MX,Nauru,NR,visa required
 22410,Mexico,MX,Nepal,NP,visa on arrival
 22411,Mexico,MX,Netherlands,NL,90
@@ -22606,7 +22606,7 @@
 22604,Micronesia,FM,Morocco,MA,visa required
 22605,Micronesia,FM,Mozambique,MZ,visa on arrival
 22606,Micronesia,FM,Myanmar,MM,visa required
-22607,Micronesia,FM,Namibia,,visa required
+22607,Micronesia,FM,Namibia,NA,visa required
 22608,Micronesia,FM,Nauru,NR,visa on arrival
 22609,Micronesia,FM,Nepal,NP,visa on arrival
 22610,Micronesia,FM,Netherlands,NL,90
@@ -22805,7 +22805,7 @@
 22803,Moldova,MD,Morocco,MA,visa required
 22804,Moldova,MD,Mozambique,MZ,visa on arrival
 22805,Moldova,MD,Myanmar,MM,visa required
-22806,Moldova,MD,Namibia,,90
+22806,Moldova,MD,Namibia,NA,90
 22807,Moldova,MD,Nauru,NR,visa required
 22808,Moldova,MD,Nepal,NP,visa on arrival
 22809,Moldova,MD,Netherlands,NL,90
@@ -23004,7 +23004,7 @@
 23002,Monaco,MC,Morocco,MA,90
 23003,Monaco,MC,Mozambique,MZ,visa on arrival
 23004,Monaco,MC,Myanmar,MM,e-visa
-23005,Monaco,MC,Namibia,,visa required
+23005,Monaco,MC,Namibia,NA,visa required
 23006,Monaco,MC,Nauru,NR,visa required
 23007,Monaco,MC,Nepal,NP,visa on arrival
 23008,Monaco,MC,Netherlands,NL,90
@@ -23203,7 +23203,7 @@
 23201,Mongolia,MN,Morocco,MA,visa required
 23202,Mongolia,MN,Mozambique,MZ,visa on arrival
 23203,Mongolia,MN,Myanmar,MM,e-visa
-23204,Mongolia,MN,Namibia,,visa required
+23204,Mongolia,MN,Namibia,NA,visa required
 23205,Mongolia,MN,Nauru,NR,visa required
 23206,Mongolia,MN,Nepal,NP,visa on arrival
 23207,Mongolia,MN,Netherlands,NL,visa required
@@ -23402,7 +23402,7 @@
 23400,Montenegro,ME,Morocco,MA,visa required
 23401,Montenegro,ME,Mozambique,MZ,visa on arrival
 23402,Montenegro,ME,Myanmar,MM,visa required
-23403,Montenegro,ME,Namibia,,visa required
+23403,Montenegro,ME,Namibia,NA,visa required
 23404,Montenegro,ME,Nauru,NR,visa required
 23405,Montenegro,ME,Nepal,NP,visa on arrival
 23406,Montenegro,ME,Netherlands,NL,90
@@ -23601,7 +23601,7 @@
 23599,Morocco,MA,Morocco,MA,-1
 23600,Morocco,MA,Mozambique,MZ,visa on arrival
 23601,Morocco,MA,Myanmar,MM,e-visa
-23602,Morocco,MA,Namibia,,visa required
+23602,Morocco,MA,Namibia,NA,visa required
 23603,Morocco,MA,Nauru,NR,visa required
 23604,Morocco,MA,Nepal,NP,visa on arrival
 23605,Morocco,MA,Netherlands,NL,visa required
@@ -23800,7 +23800,7 @@
 23798,Mozambique,MZ,Morocco,MA,visa required
 23799,Mozambique,MZ,Mozambique,MZ,-1
 23800,Mozambique,MZ,Myanmar,MM,visa required
-23801,Mozambique,MZ,Namibia,,90
+23801,Mozambique,MZ,Namibia,NA,90
 23802,Mozambique,MZ,Nauru,NR,visa required
 23803,Mozambique,MZ,Nepal,NP,visa on arrival
 23804,Mozambique,MZ,Netherlands,NL,visa required
@@ -23999,7 +23999,7 @@
 23997,Myanmar,MM,Morocco,MA,visa required
 23998,Myanmar,MM,Mozambique,MZ,visa on arrival
 23999,Myanmar,MM,Myanmar,MM,-1
-24000,Myanmar,MM,Namibia,,visa required
+24000,Myanmar,MM,Namibia,NA,visa required
 24001,Myanmar,MM,Nauru,NR,visa required
 24002,Myanmar,MM,Nepal,NP,visa on arrival
 24003,Myanmar,MM,Netherlands,NL,visa required
@@ -24078,205 +24078,205 @@
 24076,Myanmar,MM,Zambia,ZM,visa on arrival
 24077,Myanmar,MM,Zimbabwe,ZW,e-visa
 24078,Myanmar,MM,Afghanistan,AF,visa required
-24079,Namibia,,Albania,AL,e-visa
-24080,Namibia,,Algeria,DZ,visa required
-24081,Namibia,,Andorra,AD,visa required
-24082,Namibia,,Angola,AO,visa free
-24083,Namibia,,Antigua and Barbuda,AG,180
-24084,Namibia,,Argentina,AR,visa required
-24085,Namibia,,Armenia,AM,visa required
-24086,Namibia,,Australia,AU,e-visa
-24087,Namibia,,Austria,AT,visa required
-24088,Namibia,,Azerbaijan,AZ,visa required
-24089,Namibia,,Bahamas,BS,90
-24090,Namibia,,Bahrain,BH,e-visa
-24091,Namibia,,Bangladesh,BD,visa on arrival
-24092,Namibia,,Barbados,BB,90
-24093,Namibia,,Belarus,BY,visa required
-24094,Namibia,,Belgium,BE,visa required
-24095,Namibia,,Belize,BZ,visa free
-24096,Namibia,,Benin,BJ,90
-24097,Namibia,,Bhutan,BT,e-visa
-24098,Namibia,,Bolivia,BO,visa on arrival
-24099,Namibia,,Bosnia and Herzegovina,BA,visa required
-24100,Namibia,,Botswana,BW,90
-24101,Namibia,,Brazil,BR,90
-24102,Namibia,,Brunei,BN,visa required
-24103,Namibia,,Bulgaria,BG,visa required
-24104,Namibia,,Burkina Faso,BF,e-visa
-24105,Namibia,,Burundi,BI,visa on arrival
-24106,Namibia,,Cambodia,KH,visa on arrival
-24107,Namibia,,Cameroon,CM,e-visa
-24108,Namibia,,Canada,CA,visa required
-24109,Namibia,,Cape Verde,CV,visa on arrival
-24110,Namibia,,Central African Republic,CF,visa required
-24111,Namibia,,Chad,TD,visa required
-24112,Namibia,,Chile,CL,visa required
-24113,Namibia,,China,CN,visa required
-24114,Namibia,,Colombia,CO,e-visa
-24115,Namibia,,Comoros,KM,visa on arrival
-24116,Namibia,,Congo,CG,visa required
-24117,Namibia,,DR Congo,CD,e-visa
-24118,Namibia,,Costa Rica,CR,visa required
-24119,Namibia,,Ivory Coast,CI,e-visa
-24120,Namibia,,Croatia,HR,visa required
-24121,Namibia,,Cuba,CU,visa free
-24122,Namibia,,Cyprus,CY,visa required
-24123,Namibia,,Czech Republic,CZ,visa required
-24124,Namibia,,Denmark,DK,visa required
-24125,Namibia,,Djibouti,DJ,e-visa
-24126,Namibia,,Dominica,DM,180
-24127,Namibia,,Dominican Republic,DO,visa free
-24128,Namibia,,Ecuador,EC,90
-24129,Namibia,,Egypt,EG,visa required
-24130,Namibia,,El Salvador,SV,e-visa
-24131,Namibia,,Equatorial Guinea,GQ,e-visa
-24132,Namibia,,Eritrea,ER,visa required
-24133,Namibia,,Estonia,EE,visa required
-24134,Namibia,,Swaziland,SZ,30
-24135,Namibia,,Ethiopia,ET,visa on arrival
-24136,Namibia,,Fiji,FJ,visa required
-24137,Namibia,,Finland,FI,visa required
-24138,Namibia,,France,FR,visa required
-24139,Namibia,,Gabon,GA,e-visa
-24140,Namibia,,Gambia,GM,90
-24141,Namibia,,Georgia,GE,e-visa
-24142,Namibia,,Germany,DE,visa required
-24143,Namibia,,Ghana,GH,visa on arrival
-24144,Namibia,,Greece,GR,visa required
-24145,Namibia,,Grenada,GD,90
-24146,Namibia,,Guatemala,GT,visa required
-24147,Namibia,,Guinea,GN,visa free
-24148,Namibia,,Guinea-Bissau,GW,visa on arrival
-24149,Namibia,,Guyana,GY,visa required
-24150,Namibia,,Haiti,HT,90
-24151,Namibia,,Honduras,HN,visa required
-24152,Namibia,,Hong Kong,HK,90
-24153,Namibia,,Hungary,HU,visa required
-24154,Namibia,,Iceland,IS,visa required
-24155,Namibia,,India,IN,e-visa
-24156,Namibia,,Indonesia,ID,visa required
-24157,Namibia,,Iran,IR,e-visa
-24158,Namibia,,Iraq,IQ,visa required
-24159,Namibia,,Ireland,IE,visa required
-24160,Namibia,,Israel,IL,visa required
-24161,Namibia,,Italy,IT,visa required
-24162,Namibia,,Jamaica,JM,visa free
-24163,Namibia,,Japan,JP,visa required
-24164,Namibia,,Jordan,JO,e-visa
-24165,Namibia,,Kazakhstan,KZ,e-visa
-24166,Namibia,,Kenya,KE,90
-24167,Namibia,,Kiribati,KI,90
-24168,Namibia,,Kosovo,XK,90
-24169,Namibia,,Kuwait,KW,visa required
-24170,Namibia,,Kyrgyzstan,KG,e-visa
-24171,Namibia,,Laos,LA,visa on arrival
-24172,Namibia,,Latvia,LV,visa required
-24173,Namibia,,Lebanon,LB,visa required
-24174,Namibia,,Lesotho,LS,90
-24175,Namibia,,Liberia,LR,visa required
-24176,Namibia,,Libya,LY,visa required
-24177,Namibia,,Liechtenstein,LI,visa required
-24178,Namibia,,Lithuania,LT,visa required
-24179,Namibia,,Luxembourg,LU,visa required
-24180,Namibia,,Macao,MO,30
-24181,Namibia,,Madagascar,MG,visa on arrival
-24182,Namibia,,Malawi,MW,90
-24183,Namibia,,Malaysia,MY,30
-24184,Namibia,,Maldives,MV,visa on arrival
-24185,Namibia,,Mali,ML,visa required
-24186,Namibia,,Malta,MT,visa required
-24187,Namibia,,Marshall Islands,MH,visa required
-24188,Namibia,,Mauritania,MR,visa on arrival
-24189,Namibia,,Mauritius,MU,90
-24190,Namibia,,Mexico,MX,visa required
-24191,Namibia,,Micronesia,FM,30
-24192,Namibia,,Moldova,MD,e-visa
-24193,Namibia,,Monaco,MC,visa required
-24194,Namibia,,Mongolia,MN,e-visa
-24195,Namibia,,Montenegro,ME,visa required
-24196,Namibia,,Morocco,MA,visa required
-24197,Namibia,,Mozambique,MZ,visa on arrival
-24198,Namibia,,Myanmar,MM,visa required
-24199,Namibia,,Namibia,,-1
-24200,Namibia,,Nauru,NR,visa required
-24201,Namibia,,Nepal,NP,visa on arrival
-24202,Namibia,,Netherlands,NL,visa required
-24203,Namibia,,New Zealand,NZ,visa required
-24204,Namibia,,Nicaragua,NI,visa on arrival
-24205,Namibia,,Niger,NE,visa required
-24206,Namibia,,Nigeria,NG,visa on arrival
-24207,Namibia,,North Korea,KP,visa required
-24208,Namibia,,North Macedonia,MK,visa required
-24209,Namibia,,Norway,NO,visa required
-24210,Namibia,,Oman,OM,e-visa
-24211,Namibia,,Pakistan,PK,e-visa
-24212,Namibia,,Palau,PW,visa on arrival
-24213,Namibia,,Palestine,PS,visa required
-24214,Namibia,,Panama,PA,90
-24215,Namibia,,Papua New Guinea,PG,e-visa
-24216,Namibia,,Paraguay,PY,visa required
-24217,Namibia,,Peru,PE,visa required
-24218,Namibia,,Philippines,PH,30
-24219,Namibia,,Poland,PL,visa required
-24220,Namibia,,Portugal,PT,visa required
-24221,Namibia,,Qatar,QA,visa required
-24222,Namibia,,Romania,RO,visa required
-24223,Namibia,,Russia,RU,90
-24224,Namibia,,Rwanda,RW,visa on arrival
-24225,Namibia,,Saint Kitts and Nevis,KN,e-visa
-24226,Namibia,,Saint Lucia,LC,42
-24227,Namibia,,Samoa,WS,visa on arrival
-24228,Namibia,,San Marino,SM,visa required
-24229,Namibia,,Sao Tome and Principe,ST,e-visa
-24230,Namibia,,Saudi Arabia,SA,visa required
-24231,Namibia,,Senegal,SN,visa on arrival
-24232,Namibia,,Serbia,RS,visa required
-24233,Namibia,,Seychelles,SC,90
-24234,Namibia,,Sierra Leone,SL,visa on arrival
-24235,Namibia,,Singapore,SG,30
-24236,Namibia,,Slovakia,SK,visa required
-24237,Namibia,,Slovenia,SI,visa required
-24238,Namibia,,Solomon Islands,SB,visa required
-24239,Namibia,,Somalia,SO,visa on arrival
-24240,Namibia,,South Africa,ZA,90
-24241,Namibia,,South Korea,KR,e-visa
-24242,Namibia,,South Sudan,SS,e-visa
-24243,Namibia,,Spain,ES,visa required
-24244,Namibia,,Sri Lanka,LK,e-visa
-24245,Namibia,,Saint Vincent and the Grenadines,VC,90
-24246,Namibia,,Sudan,SD,visa required
-24247,Namibia,,Suriname,SR,visa required
-24248,Namibia,,Sweden,SE,visa required
-24249,Namibia,,Switzerland,CH,visa required
-24250,Namibia,,Syria,SY,visa required
-24251,Namibia,,Taiwan,TW,visa required
-24252,Namibia,,Tajikistan,TJ,e-visa
-24253,Namibia,,Tanzania,TZ,90
-24254,Namibia,,Thailand,TH,visa required
-24255,Namibia,,Timor-Leste,TL,visa on arrival
-24256,Namibia,,Togo,TG,visa on arrival
-24257,Namibia,,Tonga,TO,visa required
-24258,Namibia,,Trinidad and Tobago,TT,visa free
-24259,Namibia,,Tunisia,TN,90
-24260,Namibia,,Turkmenistan,TM,visa required
-24261,Namibia,,Tuvalu,TV,visa on arrival
-24262,Namibia,,Turkey,TR,visa required
-24263,Namibia,,Uganda,UG,e-visa
-24264,Namibia,,Ukraine,UA,visa required
-24265,Namibia,,United Arab Emirates,AE,visa required
-24266,Namibia,,United Kingdom,GB,visa required
-24267,Namibia,,United States,US,visa required
-24268,Namibia,,Uruguay,UY,visa required
-24269,Namibia,,Uzbekistan,UZ,e-visa
-24270,Namibia,,Vanuatu,VU,30
-24271,Namibia,,Vatican,VA,visa required
-24272,Namibia,,Venezuela,VE,visa required
-24273,Namibia,,Vietnam,VN,e-visa
-24274,Namibia,,Yemen,YE,visa required
-24275,Namibia,,Zambia,ZM,visa free
-24276,Namibia,,Zimbabwe,ZW,90
-24277,Namibia,,Afghanistan,AF,visa required
+24079,Namibia,NA,Albania,AL,e-visa
+24080,Namibia,NA,Algeria,DZ,visa required
+24081,Namibia,NA,Andorra,AD,visa required
+24082,Namibia,NA,Angola,AO,visa free
+24083,Namibia,NA,Antigua and Barbuda,AG,180
+24084,Namibia,NA,Argentina,AR,visa required
+24085,Namibia,NA,Armenia,AM,visa required
+24086,Namibia,NA,Australia,AU,e-visa
+24087,Namibia,NA,Austria,AT,visa required
+24088,Namibia,NA,Azerbaijan,AZ,visa required
+24089,Namibia,NA,Bahamas,BS,90
+24090,Namibia,NA,Bahrain,BH,e-visa
+24091,Namibia,NA,Bangladesh,BD,visa on arrival
+24092,Namibia,NA,Barbados,BB,90
+24093,Namibia,NA,Belarus,BY,visa required
+24094,Namibia,NA,Belgium,BE,visa required
+24095,Namibia,NA,Belize,BZ,visa free
+24096,Namibia,NA,Benin,BJ,90
+24097,Namibia,NA,Bhutan,BT,e-visa
+24098,Namibia,NA,Bolivia,BO,visa on arrival
+24099,Namibia,NA,Bosnia and Herzegovina,BA,visa required
+24100,Namibia,NA,Botswana,BW,90
+24101,Namibia,NA,Brazil,BR,90
+24102,Namibia,NA,Brunei,BN,visa required
+24103,Namibia,NA,Bulgaria,BG,visa required
+24104,Namibia,NA,Burkina Faso,BF,e-visa
+24105,Namibia,NA,Burundi,BI,visa on arrival
+24106,Namibia,NA,Cambodia,KH,visa on arrival
+24107,Namibia,NA,Cameroon,CM,e-visa
+24108,Namibia,NA,Canada,CA,visa required
+24109,Namibia,NA,Cape Verde,CV,visa on arrival
+24110,Namibia,NA,Central African Republic,CF,visa required
+24111,Namibia,NA,Chad,TD,visa required
+24112,Namibia,NA,Chile,CL,visa required
+24113,Namibia,NA,China,CN,visa required
+24114,Namibia,NA,Colombia,CO,e-visa
+24115,Namibia,NA,Comoros,KM,visa on arrival
+24116,Namibia,NA,Congo,CG,visa required
+24117,Namibia,NA,DR Congo,CD,e-visa
+24118,Namibia,NA,Costa Rica,CR,visa required
+24119,Namibia,NA,Ivory Coast,CI,e-visa
+24120,Namibia,NA,Croatia,HR,visa required
+24121,Namibia,NA,Cuba,CU,visa free
+24122,Namibia,NA,Cyprus,CY,visa required
+24123,Namibia,NA,Czech Republic,CZ,visa required
+24124,Namibia,NA,Denmark,DK,visa required
+24125,Namibia,NA,Djibouti,DJ,e-visa
+24126,Namibia,NA,Dominica,DM,180
+24127,Namibia,NA,Dominican Republic,DO,visa free
+24128,Namibia,NA,Ecuador,EC,90
+24129,Namibia,NA,Egypt,EG,visa required
+24130,Namibia,NA,El Salvador,SV,e-visa
+24131,Namibia,NA,Equatorial Guinea,GQ,e-visa
+24132,Namibia,NA,Eritrea,ER,visa required
+24133,Namibia,NA,Estonia,EE,visa required
+24134,Namibia,NA,Swaziland,SZ,30
+24135,Namibia,NA,Ethiopia,ET,visa on arrival
+24136,Namibia,NA,Fiji,FJ,visa required
+24137,Namibia,NA,Finland,FI,visa required
+24138,Namibia,NA,France,FR,visa required
+24139,Namibia,NA,Gabon,GA,e-visa
+24140,Namibia,NA,Gambia,GM,90
+24141,Namibia,NA,Georgia,GE,e-visa
+24142,Namibia,NA,Germany,DE,visa required
+24143,Namibia,NA,Ghana,GH,visa on arrival
+24144,Namibia,NA,Greece,GR,visa required
+24145,Namibia,NA,Grenada,GD,90
+24146,Namibia,NA,Guatemala,GT,visa required
+24147,Namibia,NA,Guinea,GN,visa free
+24148,Namibia,NA,Guinea-Bissau,GW,visa on arrival
+24149,Namibia,NA,Guyana,GY,visa required
+24150,Namibia,NA,Haiti,HT,90
+24151,Namibia,NA,Honduras,HN,visa required
+24152,Namibia,NA,Hong Kong,HK,90
+24153,Namibia,NA,Hungary,HU,visa required
+24154,Namibia,NA,Iceland,IS,visa required
+24155,Namibia,NA,India,IN,e-visa
+24156,Namibia,NA,Indonesia,ID,visa required
+24157,Namibia,NA,Iran,IR,e-visa
+24158,Namibia,NA,Iraq,IQ,visa required
+24159,Namibia,NA,Ireland,IE,visa required
+24160,Namibia,NA,Israel,IL,visa required
+24161,Namibia,NA,Italy,IT,visa required
+24162,Namibia,NA,Jamaica,JM,visa free
+24163,Namibia,NA,Japan,JP,visa required
+24164,Namibia,NA,Jordan,JO,e-visa
+24165,Namibia,NA,Kazakhstan,KZ,e-visa
+24166,Namibia,NA,Kenya,KE,90
+24167,Namibia,NA,Kiribati,KI,90
+24168,Namibia,NA,Kosovo,XK,90
+24169,Namibia,NA,Kuwait,KW,visa required
+24170,Namibia,NA,Kyrgyzstan,KG,e-visa
+24171,Namibia,NA,Laos,LA,visa on arrival
+24172,Namibia,NA,Latvia,LV,visa required
+24173,Namibia,NA,Lebanon,LB,visa required
+24174,Namibia,NA,Lesotho,LS,90
+24175,Namibia,NA,Liberia,LR,visa required
+24176,Namibia,NA,Libya,LY,visa required
+24177,Namibia,NA,Liechtenstein,LI,visa required
+24178,Namibia,NA,Lithuania,LT,visa required
+24179,Namibia,NA,Luxembourg,LU,visa required
+24180,Namibia,NA,Macao,MO,30
+24181,Namibia,NA,Madagascar,MG,visa on arrival
+24182,Namibia,NA,Malawi,MW,90
+24183,Namibia,NA,Malaysia,MY,30
+24184,Namibia,NA,Maldives,MV,visa on arrival
+24185,Namibia,NA,Mali,ML,visa required
+24186,Namibia,NA,Malta,MT,visa required
+24187,Namibia,NA,Marshall Islands,MH,visa required
+24188,Namibia,NA,Mauritania,MR,visa on arrival
+24189,Namibia,NA,Mauritius,MU,90
+24190,Namibia,NA,Mexico,MX,visa required
+24191,Namibia,NA,Micronesia,FM,30
+24192,Namibia,NA,Moldova,MD,e-visa
+24193,Namibia,NA,Monaco,MC,visa required
+24194,Namibia,NA,Mongolia,MN,e-visa
+24195,Namibia,NA,Montenegro,ME,visa required
+24196,Namibia,NA,Morocco,MA,visa required
+24197,Namibia,NA,Mozambique,MZ,visa on arrival
+24198,Namibia,NA,Myanmar,MM,visa required
+24199,Namibia,NA,Namibia,NA,-1
+24200,Namibia,NA,Nauru,NR,visa required
+24201,Namibia,NA,Nepal,NP,visa on arrival
+24202,Namibia,NA,Netherlands,NL,visa required
+24203,Namibia,NA,New Zealand,NZ,visa required
+24204,Namibia,NA,Nicaragua,NI,visa on arrival
+24205,Namibia,NA,Niger,NE,visa required
+24206,Namibia,NA,Nigeria,NG,visa on arrival
+24207,Namibia,NA,North Korea,KP,visa required
+24208,Namibia,NA,North Macedonia,MK,visa required
+24209,Namibia,NA,Norway,NO,visa required
+24210,Namibia,NA,Oman,OM,e-visa
+24211,Namibia,NA,Pakistan,PK,e-visa
+24212,Namibia,NA,Palau,PW,visa on arrival
+24213,Namibia,NA,Palestine,PS,visa required
+24214,Namibia,NA,Panama,PA,90
+24215,Namibia,NA,Papua New Guinea,PG,e-visa
+24216,Namibia,NA,Paraguay,PY,visa required
+24217,Namibia,NA,Peru,PE,visa required
+24218,Namibia,NA,Philippines,PH,30
+24219,Namibia,NA,Poland,PL,visa required
+24220,Namibia,NA,Portugal,PT,visa required
+24221,Namibia,NA,Qatar,QA,visa required
+24222,Namibia,NA,Romania,RO,visa required
+24223,Namibia,NA,Russia,RU,90
+24224,Namibia,NA,Rwanda,RW,visa on arrival
+24225,Namibia,NA,Saint Kitts and Nevis,KN,e-visa
+24226,Namibia,NA,Saint Lucia,LC,42
+24227,Namibia,NA,Samoa,WS,visa on arrival
+24228,Namibia,NA,San Marino,SM,visa required
+24229,Namibia,NA,Sao Tome and Principe,ST,e-visa
+24230,Namibia,NA,Saudi Arabia,SA,visa required
+24231,Namibia,NA,Senegal,SN,visa on arrival
+24232,Namibia,NA,Serbia,RS,visa required
+24233,Namibia,NA,Seychelles,SC,90
+24234,Namibia,NA,Sierra Leone,SL,visa on arrival
+24235,Namibia,NA,Singapore,SG,30
+24236,Namibia,NA,Slovakia,SK,visa required
+24237,Namibia,NA,Slovenia,SI,visa required
+24238,Namibia,NA,Solomon Islands,SB,visa required
+24239,Namibia,NA,Somalia,SO,visa on arrival
+24240,Namibia,NA,South Africa,ZA,90
+24241,Namibia,NA,South Korea,KR,e-visa
+24242,Namibia,NA,South Sudan,SS,e-visa
+24243,Namibia,NA,Spain,ES,visa required
+24244,Namibia,NA,Sri Lanka,LK,e-visa
+24245,Namibia,NA,Saint Vincent and the Grenadines,VC,90
+24246,Namibia,NA,Sudan,SD,visa required
+24247,Namibia,NA,Suriname,SR,visa required
+24248,Namibia,NA,Sweden,SE,visa required
+24249,Namibia,NA,Switzerland,CH,visa required
+24250,Namibia,NA,Syria,SY,visa required
+24251,Namibia,NA,Taiwan,TW,visa required
+24252,Namibia,NA,Tajikistan,TJ,e-visa
+24253,Namibia,NA,Tanzania,TZ,90
+24254,Namibia,NA,Thailand,TH,visa required
+24255,Namibia,NA,Timor-Leste,TL,visa on arrival
+24256,Namibia,NA,Togo,TG,visa on arrival
+24257,Namibia,NA,Tonga,TO,visa required
+24258,Namibia,NA,Trinidad and Tobago,TT,visa free
+24259,Namibia,NA,Tunisia,TN,90
+24260,Namibia,NA,Turkmenistan,TM,visa required
+24261,Namibia,NA,Tuvalu,TV,visa on arrival
+24262,Namibia,NA,Turkey,TR,visa required
+24263,Namibia,NA,Uganda,UG,e-visa
+24264,Namibia,NA,Ukraine,UA,visa required
+24265,Namibia,NA,United Arab Emirates,AE,visa required
+24266,Namibia,NA,United Kingdom,GB,visa required
+24267,Namibia,NA,United States,US,visa required
+24268,Namibia,NA,Uruguay,UY,visa required
+24269,Namibia,NA,Uzbekistan,UZ,e-visa
+24270,Namibia,NA,Vanuatu,VU,30
+24271,Namibia,NA,Vatican,VA,visa required
+24272,Namibia,NA,Venezuela,VE,visa required
+24273,Namibia,NA,Vietnam,VN,e-visa
+24274,Namibia,NA,Yemen,YE,visa required
+24275,Namibia,NA,Zambia,ZM,visa free
+24276,Namibia,NA,Zimbabwe,ZW,90
+24277,Namibia,NA,Afghanistan,AF,visa required
 24278,Nauru,NR,Albania,AL,e-visa
 24279,Nauru,NR,Algeria,DZ,visa required
 24280,Nauru,NR,Andorra,AD,visa required
@@ -24397,7 +24397,7 @@
 24395,Nauru,NR,Morocco,MA,visa required
 24396,Nauru,NR,Mozambique,MZ,visa on arrival
 24397,Nauru,NR,Myanmar,MM,visa required
-24398,Nauru,NR,Namibia,,visa required
+24398,Nauru,NR,Namibia,NA,visa required
 24399,Nauru,NR,Nauru,NR,-1
 24400,Nauru,NR,Nepal,NP,visa on arrival
 24401,Nauru,NR,Netherlands,NL,visa required
@@ -24596,7 +24596,7 @@
 24594,Nepal,NP,Morocco,MA,visa required
 24595,Nepal,NP,Mozambique,MZ,visa on arrival
 24596,Nepal,NP,Myanmar,MM,e-visa
-24597,Nepal,NP,Namibia,,visa required
+24597,Nepal,NP,Namibia,NA,visa required
 24598,Nepal,NP,Nauru,NR,visa required
 24599,Nepal,NP,Nepal,NP,-1
 24600,Nepal,NP,Netherlands,NL,visa required
@@ -24795,7 +24795,7 @@
 24793,Netherlands,NL,Morocco,MA,90
 24794,Netherlands,NL,Mozambique,MZ,30
 24795,Netherlands,NL,Myanmar,MM,e-visa
-24796,Netherlands,NL,Namibia,,90
+24796,Netherlands,NL,Namibia,NA,90
 24797,Netherlands,NL,Nauru,NR,visa required
 24798,Netherlands,NL,Nepal,NP,visa on arrival
 24799,Netherlands,NL,Netherlands,NL,-1
@@ -24994,7 +24994,7 @@
 24992,New Zealand,NZ,Morocco,MA,90
 24993,New Zealand,NZ,Mozambique,MZ,visa on arrival
 24994,New Zealand,NZ,Myanmar,MM,e-visa
-24995,New Zealand,NZ,Namibia,,90
+24995,New Zealand,NZ,Namibia,NA,90
 24996,New Zealand,NZ,Nauru,NR,visa required
 24997,New Zealand,NZ,Nepal,NP,visa on arrival
 24998,New Zealand,NZ,Netherlands,NL,90
@@ -25193,7 +25193,7 @@
 25191,Nicaragua,NI,Morocco,MA,visa required
 25192,Nicaragua,NI,Mozambique,MZ,visa on arrival
 25193,Nicaragua,NI,Myanmar,MM,visa required
-25194,Nicaragua,NI,Namibia,,visa on arrival
+25194,Nicaragua,NI,Namibia,NA,visa on arrival
 25195,Nicaragua,NI,Nauru,NR,visa required
 25196,Nicaragua,NI,Nepal,NP,visa on arrival
 25197,Nicaragua,NI,Netherlands,NL,90
@@ -25392,7 +25392,7 @@
 25390,Niger,NE,Morocco,MA,90
 25391,Niger,NE,Mozambique,MZ,visa on arrival
 25392,Niger,NE,Myanmar,MM,visa required
-25393,Niger,NE,Namibia,,visa required
+25393,Niger,NE,Namibia,NA,visa required
 25394,Niger,NE,Nauru,NR,visa required
 25395,Niger,NE,Nepal,NP,visa on arrival
 25396,Niger,NE,Netherlands,NL,visa required
@@ -25591,7 +25591,7 @@
 25589,Nigeria,NG,Morocco,MA,visa required
 25590,Nigeria,NG,Mozambique,MZ,visa on arrival
 25591,Nigeria,NG,Myanmar,MM,visa required
-25592,Nigeria,NG,Namibia,,visa on arrival
+25592,Nigeria,NG,Namibia,NA,visa on arrival
 25593,Nigeria,NG,Nauru,NR,visa required
 25594,Nigeria,NG,Nepal,NP,visa required
 25595,Nigeria,NG,Netherlands,NL,visa required
@@ -25790,7 +25790,7 @@
 25788,North Korea,KP,Morocco,MA,visa required
 25789,North Korea,KP,Mozambique,MZ,visa on arrival
 25790,North Korea,KP,Myanmar,MM,visa required
-25791,North Korea,KP,Namibia,,visa required
+25791,North Korea,KP,Namibia,NA,visa required
 25792,North Korea,KP,Nauru,NR,visa required
 25793,North Korea,KP,Nepal,NP,visa on arrival
 25794,North Korea,KP,Netherlands,NL,visa required
@@ -25989,7 +25989,7 @@
 25987,North Macedonia,MK,Morocco,MA,visa required
 25988,North Macedonia,MK,Mozambique,MZ,visa on arrival
 25989,North Macedonia,MK,Myanmar,MM,visa required
-25990,North Macedonia,MK,Namibia,,visa required
+25990,North Macedonia,MK,Namibia,NA,visa required
 25991,North Macedonia,MK,Nauru,NR,visa required
 25992,North Macedonia,MK,Nepal,NP,visa on arrival
 25993,North Macedonia,MK,Netherlands,NL,90
@@ -26188,7 +26188,7 @@
 26186,Norway,NO,Morocco,MA,90
 26187,Norway,NO,Mozambique,MZ,30
 26188,Norway,NO,Myanmar,MM,e-visa
-26189,Norway,NO,Namibia,,90
+26189,Norway,NO,Namibia,NA,90
 26190,Norway,NO,Nauru,NR,visa required
 26191,Norway,NO,Nepal,NP,visa on arrival
 26192,Norway,NO,Netherlands,NL,visa free
@@ -26387,7 +26387,7 @@
 26385,Oman,OM,Morocco,MA,90
 26386,Oman,OM,Mozambique,MZ,visa on arrival
 26387,Oman,OM,Myanmar,MM,visa required
-26388,Oman,OM,Namibia,,visa required
+26388,Oman,OM,Namibia,NA,visa required
 26389,Oman,OM,Nauru,NR,visa required
 26390,Oman,OM,Nepal,NP,visa on arrival
 26391,Oman,OM,Netherlands,NL,visa required
@@ -26586,7 +26586,7 @@
 26584,Pakistan,PK,Morocco,MA,visa required
 26585,Pakistan,PK,Mozambique,MZ,e-visa
 26586,Pakistan,PK,Myanmar,MM,e-visa
-26587,Pakistan,PK,Namibia,,visa required
+26587,Pakistan,PK,Namibia,NA,visa required
 26588,Pakistan,PK,Nauru,NR,visa required
 26589,Pakistan,PK,Nepal,NP,visa on arrival
 26590,Pakistan,PK,Netherlands,NL,visa required
@@ -26785,7 +26785,7 @@
 26783,Palau,PW,Morocco,MA,visa required
 26784,Palau,PW,Mozambique,MZ,visa on arrival
 26785,Palau,PW,Myanmar,MM,visa required
-26786,Palau,PW,Namibia,,visa required
+26786,Palau,PW,Namibia,NA,visa required
 26787,Palau,PW,Nauru,NR,visa on arrival
 26788,Palau,PW,Nepal,NP,visa on arrival
 26789,Palau,PW,Netherlands,NL,90
@@ -26984,7 +26984,7 @@
 26982,Palestine,PS,Morocco,MA,visa required
 26983,Palestine,PS,Mozambique,MZ,visa on arrival
 26984,Palestine,PS,Myanmar,MM,visa required
-26985,Palestine,PS,Namibia,,visa required
+26985,Palestine,PS,Namibia,NA,visa required
 26986,Palestine,PS,Nauru,NR,visa required
 26987,Palestine,PS,Nepal,NP,visa required
 26988,Palestine,PS,Netherlands,NL,visa required
@@ -27183,7 +27183,7 @@
 27181,Panama,PA,Morocco,MA,visa required
 27182,Panama,PA,Mozambique,MZ,visa on arrival
 27183,Panama,PA,Myanmar,MM,e-visa
-27184,Panama,PA,Namibia,,visa required
+27184,Panama,PA,Namibia,NA,visa required
 27185,Panama,PA,Nauru,NR,visa required
 27186,Panama,PA,Nepal,NP,visa on arrival
 27187,Panama,PA,Netherlands,NL,90
@@ -27382,7 +27382,7 @@
 27380,Papua New Guinea,PG,Morocco,MA,visa required
 27381,Papua New Guinea,PG,Mozambique,MZ,visa on arrival
 27382,Papua New Guinea,PG,Myanmar,MM,visa required
-27383,Papua New Guinea,PG,Namibia,,visa required
+27383,Papua New Guinea,PG,Namibia,NA,visa required
 27384,Papua New Guinea,PG,Nauru,NR,visa on arrival
 27385,Papua New Guinea,PG,Nepal,NP,visa on arrival
 27386,Papua New Guinea,PG,Netherlands,NL,visa required
@@ -27581,7 +27581,7 @@
 27579,Paraguay,PY,Morocco,MA,visa required
 27580,Paraguay,PY,Mozambique,MZ,visa on arrival
 27581,Paraguay,PY,Myanmar,MM,visa required
-27582,Paraguay,PY,Namibia,,visa required
+27582,Paraguay,PY,Namibia,NA,visa required
 27583,Paraguay,PY,Nauru,NR,visa required
 27584,Paraguay,PY,Nepal,NP,visa on arrival
 27585,Paraguay,PY,Netherlands,NL,90
@@ -27780,7 +27780,7 @@
 27778,Peru,PE,Morocco,MA,90
 27779,Peru,PE,Mozambique,MZ,visa on arrival
 27780,Peru,PE,Myanmar,MM,e-visa
-27781,Peru,PE,Namibia,,visa required
+27781,Peru,PE,Namibia,NA,visa required
 27782,Peru,PE,Nauru,NR,visa required
 27783,Peru,PE,Nepal,NP,visa on arrival
 27784,Peru,PE,Netherlands,NL,90
@@ -27979,7 +27979,7 @@
 27977,Philippines,PH,Morocco,MA,90
 27978,Philippines,PH,Mozambique,MZ,visa on arrival
 27979,Philippines,PH,Myanmar,MM,14
-27980,Philippines,PH,Namibia,,visa required
+27980,Philippines,PH,Namibia,NA,visa required
 27981,Philippines,PH,Nauru,NR,visa required
 27982,Philippines,PH,Nepal,NP,visa on arrival
 27983,Philippines,PH,Netherlands,NL,visa required
@@ -28178,7 +28178,7 @@
 28176,Poland,PL,Morocco,MA,90
 28177,Poland,PL,Mozambique,MZ,visa on arrival
 28178,Poland,PL,Myanmar,MM,e-visa
-28179,Poland,PL,Namibia,,visa on arrival
+28179,Poland,PL,Namibia,NA,visa on arrival
 28180,Poland,PL,Nauru,NR,visa required
 28181,Poland,PL,Nepal,NP,visa on arrival
 28182,Poland,PL,Netherlands,NL,visa free
@@ -28377,7 +28377,7 @@
 28375,Portugal,PT,Morocco,MA,90
 28376,Portugal,PT,Mozambique,MZ,30
 28377,Portugal,PT,Myanmar,MM,e-visa
-28378,Portugal,PT,Namibia,,90
+28378,Portugal,PT,Namibia,NA,90
 28379,Portugal,PT,Nauru,NR,visa required
 28380,Portugal,PT,Nepal,NP,visa on arrival
 28381,Portugal,PT,Netherlands,NL,visa free
@@ -28576,7 +28576,7 @@
 28574,Qatar,QA,Morocco,MA,90
 28575,Qatar,QA,Mozambique,MZ,visa on arrival
 28576,Qatar,QA,Myanmar,MM,e-visa
-28577,Qatar,QA,Namibia,,visa required
+28577,Qatar,QA,Namibia,NA,visa required
 28578,Qatar,QA,Nauru,NR,visa required
 28579,Qatar,QA,Nepal,NP,visa on arrival
 28580,Qatar,QA,Netherlands,NL,visa required
@@ -28775,7 +28775,7 @@
 28773,Romania,RO,Morocco,MA,90
 28774,Romania,RO,Mozambique,MZ,visa on arrival
 28775,Romania,RO,Myanmar,MM,e-visa
-28776,Romania,RO,Namibia,,visa on arrival
+28776,Romania,RO,Namibia,NA,visa on arrival
 28777,Romania,RO,Nauru,NR,visa required
 28778,Romania,RO,Nepal,NP,visa on arrival
 28779,Romania,RO,Netherlands,NL,visa free
@@ -28974,7 +28974,7 @@
 28972,Russia,RU,Morocco,MA,90
 28973,Russia,RU,Mozambique,MZ,30
 28974,Russia,RU,Myanmar,MM,30
-28975,Russia,RU,Namibia,,90
+28975,Russia,RU,Namibia,NA,90
 28976,Russia,RU,Nauru,NR,visa on arrival
 28977,Russia,RU,Nepal,NP,visa on arrival
 28978,Russia,RU,Netherlands,NL,visa required
@@ -29173,7 +29173,7 @@
 29171,Rwanda,RW,Morocco,MA,visa required
 29172,Rwanda,RW,Mozambique,MZ,visa on arrival
 29173,Rwanda,RW,Myanmar,MM,visa required
-29174,Rwanda,RW,Namibia,,visa on arrival
+29174,Rwanda,RW,Namibia,NA,visa on arrival
 29175,Rwanda,RW,Nauru,NR,visa required
 29176,Rwanda,RW,Nepal,NP,visa on arrival
 29177,Rwanda,RW,Netherlands,NL,visa required
@@ -29372,7 +29372,7 @@
 29370,Saint Kitts and Nevis,KN,Morocco,MA,visa required
 29371,Saint Kitts and Nevis,KN,Mozambique,MZ,visa on arrival
 29372,Saint Kitts and Nevis,KN,Myanmar,MM,visa required
-29373,Saint Kitts and Nevis,KN,Namibia,,visa required
+29373,Saint Kitts and Nevis,KN,Namibia,NA,visa required
 29374,Saint Kitts and Nevis,KN,Nauru,NR,visa required
 29375,Saint Kitts and Nevis,KN,Nepal,NP,visa on arrival
 29376,Saint Kitts and Nevis,KN,Netherlands,NL,90
@@ -29571,7 +29571,7 @@
 29569,Saint Lucia,LC,Morocco,MA,visa required
 29570,Saint Lucia,LC,Mozambique,MZ,visa on arrival
 29571,Saint Lucia,LC,Myanmar,MM,visa required
-29572,Saint Lucia,LC,Namibia,,visa required
+29572,Saint Lucia,LC,Namibia,NA,visa required
 29573,Saint Lucia,LC,Nauru,NR,visa required
 29574,Saint Lucia,LC,Nepal,NP,visa on arrival
 29575,Saint Lucia,LC,Netherlands,NL,90
@@ -29770,7 +29770,7 @@
 29768,Samoa,WS,Morocco,MA,visa required
 29769,Samoa,WS,Mozambique,MZ,visa on arrival
 29770,Samoa,WS,Myanmar,MM,visa required
-29771,Samoa,WS,Namibia,,visa required
+29771,Samoa,WS,Namibia,NA,visa required
 29772,Samoa,WS,Nauru,NR,visa on arrival
 29773,Samoa,WS,Nepal,NP,visa on arrival
 29774,Samoa,WS,Netherlands,NL,90
@@ -29969,7 +29969,7 @@
 29967,San Marino,SM,Morocco,MA,90
 29968,San Marino,SM,Mozambique,MZ,visa on arrival
 29969,San Marino,SM,Myanmar,MM,visa required
-29970,San Marino,SM,Namibia,,visa required
+29970,San Marino,SM,Namibia,NA,visa required
 29971,San Marino,SM,Nauru,NR,visa required
 29972,San Marino,SM,Nepal,NP,visa on arrival
 29973,San Marino,SM,Netherlands,NL,90
@@ -30168,7 +30168,7 @@
 30166,Sao Tome and Principe,ST,Morocco,MA,visa required
 30167,Sao Tome and Principe,ST,Mozambique,MZ,visa on arrival
 30168,Sao Tome and Principe,ST,Myanmar,MM,visa required
-30169,Sao Tome and Principe,ST,Namibia,,visa on arrival
+30169,Sao Tome and Principe,ST,Namibia,NA,visa on arrival
 30170,Sao Tome and Principe,ST,Nauru,NR,visa required
 30171,Sao Tome and Principe,ST,Nepal,NP,visa on arrival
 30172,Sao Tome and Principe,ST,Netherlands,NL,visa required
@@ -30367,7 +30367,7 @@
 30365,Saudi Arabia,SA,Morocco,MA,90
 30366,Saudi Arabia,SA,Mozambique,MZ,30
 30367,Saudi Arabia,SA,Myanmar,MM,e-visa
-30368,Saudi Arabia,SA,Namibia,,visa required
+30368,Saudi Arabia,SA,Namibia,NA,visa required
 30369,Saudi Arabia,SA,Nauru,NR,visa required
 30370,Saudi Arabia,SA,Nepal,NP,visa on arrival
 30371,Saudi Arabia,SA,Netherlands,NL,visa required
@@ -30566,7 +30566,7 @@
 30564,Senegal,SN,Morocco,MA,90
 30565,Senegal,SN,Mozambique,MZ,30
 30566,Senegal,SN,Myanmar,MM,visa required
-30567,Senegal,SN,Namibia,,visa required
+30567,Senegal,SN,Namibia,NA,visa required
 30568,Senegal,SN,Nauru,NR,visa required
 30569,Senegal,SN,Nepal,NP,visa on arrival
 30570,Senegal,SN,Netherlands,NL,visa required
@@ -30765,7 +30765,7 @@
 30763,Serbia,RS,Morocco,MA,visa required
 30764,Serbia,RS,Mozambique,MZ,visa on arrival
 30765,Serbia,RS,Myanmar,MM,e-visa
-30766,Serbia,RS,Namibia,,visa required
+30766,Serbia,RS,Namibia,NA,visa required
 30767,Serbia,RS,Nauru,NR,visa required
 30768,Serbia,RS,Nepal,NP,visa on arrival
 30769,Serbia,RS,Netherlands,NL,90
@@ -30964,7 +30964,7 @@
 30962,Seychelles,SC,Morocco,MA,visa required
 30963,Seychelles,SC,Mozambique,MZ,visa on arrival
 30964,Seychelles,SC,Myanmar,MM,visa required
-30965,Seychelles,SC,Namibia,,90
+30965,Seychelles,SC,Namibia,NA,90
 30966,Seychelles,SC,Nauru,NR,visa required
 30967,Seychelles,SC,Nepal,NP,visa on arrival
 30968,Seychelles,SC,Netherlands,NL,90
@@ -31163,7 +31163,7 @@
 31161,Sierra Leone,SL,Morocco,MA,visa required
 31162,Sierra Leone,SL,Mozambique,MZ,visa on arrival
 31163,Sierra Leone,SL,Myanmar,MM,visa required
-31164,Sierra Leone,SL,Namibia,,visa on arrival
+31164,Sierra Leone,SL,Namibia,NA,visa on arrival
 31165,Sierra Leone,SL,Nauru,NR,visa required
 31166,Sierra Leone,SL,Nepal,NP,visa on arrival
 31167,Sierra Leone,SL,Netherlands,NL,visa required
@@ -31362,7 +31362,7 @@
 31360,Singapore,SG,Morocco,MA,30
 31361,Singapore,SG,Mozambique,MZ,30
 31362,Singapore,SG,Myanmar,MM,30
-31363,Singapore,SG,Namibia,,90
+31363,Singapore,SG,Namibia,NA,90
 31364,Singapore,SG,Nauru,NR,visa required
 31365,Singapore,SG,Nepal,NP,visa on arrival
 31366,Singapore,SG,Netherlands,NL,90
@@ -31561,7 +31561,7 @@
 31559,Slovakia,SK,Morocco,MA,90
 31560,Slovakia,SK,Mozambique,MZ,visa on arrival
 31561,Slovakia,SK,Myanmar,MM,e-visa
-31562,Slovakia,SK,Namibia,,visa on arrival
+31562,Slovakia,SK,Namibia,NA,visa on arrival
 31563,Slovakia,SK,Nauru,NR,visa required
 31564,Slovakia,SK,Nepal,NP,visa on arrival
 31565,Slovakia,SK,Netherlands,NL,visa free
@@ -31760,7 +31760,7 @@
 31758,Slovenia,SI,Morocco,MA,90
 31759,Slovenia,SI,Mozambique,MZ,visa on arrival
 31760,Slovenia,SI,Myanmar,MM,e-visa
-31761,Slovenia,SI,Namibia,,visa required
+31761,Slovenia,SI,Namibia,NA,visa required
 31762,Slovenia,SI,Nauru,NR,visa required
 31763,Slovenia,SI,Nepal,NP,visa on arrival
 31764,Slovenia,SI,Netherlands,NL,visa free
@@ -31959,7 +31959,7 @@
 31957,Solomon Islands,SB,Morocco,MA,visa required
 31958,Solomon Islands,SB,Mozambique,MZ,visa on arrival
 31959,Solomon Islands,SB,Myanmar,MM,visa required
-31960,Solomon Islands,SB,Namibia,,visa required
+31960,Solomon Islands,SB,Namibia,NA,visa required
 31961,Solomon Islands,SB,Nauru,NR,visa on arrival
 31962,Solomon Islands,SB,Nepal,NP,visa on arrival
 31963,Solomon Islands,SB,Netherlands,NL,90
@@ -32158,7 +32158,7 @@
 32156,Somalia,SO,Morocco,MA,visa required
 32157,Somalia,SO,Mozambique,MZ,e-visa
 32158,Somalia,SO,Myanmar,MM,visa required
-32159,Somalia,SO,Namibia,,visa required
+32159,Somalia,SO,Namibia,NA,visa required
 32160,Somalia,SO,Nauru,NR,visa required
 32161,Somalia,SO,Nepal,NP,visa required
 32162,Somalia,SO,Netherlands,NL,visa required
@@ -32357,7 +32357,7 @@
 32355,South Africa,ZA,Morocco,MA,visa required
 32356,South Africa,ZA,Mozambique,MZ,visa free
 32357,South Africa,ZA,Myanmar,MM,e-visa
-32358,South Africa,ZA,Namibia,,90
+32358,South Africa,ZA,Namibia,NA,90
 32359,South Africa,ZA,Nauru,NR,visa required
 32360,South Africa,ZA,Nepal,NP,visa on arrival
 32361,South Africa,ZA,Netherlands,NL,visa required
@@ -32556,7 +32556,7 @@
 32554,South Korea,KR,Morocco,MA,90
 32555,South Korea,KR,Mozambique,MZ,30
 32556,South Korea,KR,Myanmar,MM,e-visa
-32557,South Korea,KR,Namibia,,visa on arrival
+32557,South Korea,KR,Namibia,NA,visa on arrival
 32558,South Korea,KR,Nauru,NR,visa required
 32559,South Korea,KR,Nepal,NP,visa on arrival
 32560,South Korea,KR,Netherlands,NL,90
@@ -32755,7 +32755,7 @@
 32753,South Sudan,SS,Morocco,MA,visa required
 32754,South Sudan,SS,Mozambique,MZ,visa on arrival
 32755,South Sudan,SS,Myanmar,MM,visa required
-32756,South Sudan,SS,Namibia,,visa required
+32756,South Sudan,SS,Namibia,NA,visa required
 32757,South Sudan,SS,Nauru,NR,visa required
 32758,South Sudan,SS,Nepal,NP,visa on arrival
 32759,South Sudan,SS,Netherlands,NL,visa required
@@ -32954,7 +32954,7 @@
 32952,Spain,ES,Morocco,MA,90
 32953,Spain,ES,Mozambique,MZ,30
 32954,Spain,ES,Myanmar,MM,e-visa
-32955,Spain,ES,Namibia,,90
+32955,Spain,ES,Namibia,NA,90
 32956,Spain,ES,Nauru,NR,visa required
 32957,Spain,ES,Nepal,NP,visa on arrival
 32958,Spain,ES,Netherlands,NL,visa free
@@ -33153,7 +33153,7 @@
 33151,Sri Lanka,LK,Morocco,MA,visa required
 33152,Sri Lanka,LK,Mozambique,MZ,e-visa
 33153,Sri Lanka,LK,Myanmar,MM,e-visa
-33154,Sri Lanka,LK,Namibia,,visa required
+33154,Sri Lanka,LK,Namibia,NA,visa required
 33155,Sri Lanka,LK,Nauru,NR,visa required
 33156,Sri Lanka,LK,Nepal,NP,visa on arrival
 33157,Sri Lanka,LK,Netherlands,NL,visa required
@@ -33352,7 +33352,7 @@
 33350,Saint Vincent and the Grenadines,VC,Morocco,MA,visa required
 33351,Saint Vincent and the Grenadines,VC,Mozambique,MZ,visa on arrival
 33352,Saint Vincent and the Grenadines,VC,Myanmar,MM,visa required
-33353,Saint Vincent and the Grenadines,VC,Namibia,,visa required
+33353,Saint Vincent and the Grenadines,VC,Namibia,NA,visa required
 33354,Saint Vincent and the Grenadines,VC,Nauru,NR,visa required
 33355,Saint Vincent and the Grenadines,VC,Nepal,NP,visa on arrival
 33356,Saint Vincent and the Grenadines,VC,Netherlands,NL,90
@@ -33551,7 +33551,7 @@
 33549,Sudan,SD,Morocco,MA,visa required
 33550,Sudan,SD,Mozambique,MZ,visa on arrival
 33551,Sudan,SD,Myanmar,MM,visa required
-33552,Sudan,SD,Namibia,,visa required
+33552,Sudan,SD,Namibia,NA,visa required
 33553,Sudan,SD,Nauru,NR,visa required
 33554,Sudan,SD,Nepal,NP,visa on arrival
 33555,Sudan,SD,Netherlands,NL,visa required
@@ -33750,7 +33750,7 @@
 33748,Suriname,SR,Morocco,MA,visa required
 33749,Suriname,SR,Mozambique,MZ,visa on arrival
 33750,Suriname,SR,Myanmar,MM,visa required
-33751,Suriname,SR,Namibia,,visa required
+33751,Suriname,SR,Namibia,NA,visa required
 33752,Suriname,SR,Nauru,NR,visa required
 33753,Suriname,SR,Nepal,NP,visa on arrival
 33754,Suriname,SR,Netherlands,NL,visa required
@@ -33949,7 +33949,7 @@
 33947,Sweden,SE,Morocco,MA,90
 33948,Sweden,SE,Mozambique,MZ,30
 33949,Sweden,SE,Myanmar,MM,e-visa
-33950,Sweden,SE,Namibia,,90
+33950,Sweden,SE,Namibia,NA,90
 33951,Sweden,SE,Nauru,NR,visa required
 33952,Sweden,SE,Nepal,NP,visa on arrival
 33953,Sweden,SE,Netherlands,NL,visa free
@@ -34148,7 +34148,7 @@
 34146,Switzerland,CH,Morocco,MA,90
 34147,Switzerland,CH,Mozambique,MZ,30
 34148,Switzerland,CH,Myanmar,MM,e-visa
-34149,Switzerland,CH,Namibia,,90
+34149,Switzerland,CH,Namibia,NA,90
 34150,Switzerland,CH,Nauru,NR,visa required
 34151,Switzerland,CH,Nepal,NP,visa on arrival
 34152,Switzerland,CH,Netherlands,NL,visa free
@@ -34347,7 +34347,7 @@
 34345,Syria,SY,Morocco,MA,visa required
 34346,Syria,SY,Mozambique,MZ,visa on arrival
 34347,Syria,SY,Myanmar,MM,visa required
-34348,Syria,SY,Namibia,,visa required
+34348,Syria,SY,Namibia,NA,visa required
 34349,Syria,SY,Nauru,NR,visa required
 34350,Syria,SY,Nepal,NP,visa required
 34351,Syria,SY,Netherlands,NL,visa required
@@ -34546,7 +34546,7 @@
 34544,Taiwan,TW,Morocco,MA,visa required
 34545,Taiwan,TW,Mozambique,MZ,visa on arrival
 34546,Taiwan,TW,Myanmar,MM,visa required
-34547,Taiwan,TW,Namibia,,visa required
+34547,Taiwan,TW,Namibia,NA,visa required
 34548,Taiwan,TW,Nauru,NR,visa on arrival
 34549,Taiwan,TW,Nepal,NP,visa on arrival
 34550,Taiwan,TW,Netherlands,NL,90
@@ -34745,7 +34745,7 @@
 34743,Tajikistan,TJ,Morocco,MA,visa required
 34744,Tajikistan,TJ,Mozambique,MZ,visa on arrival
 34745,Tajikistan,TJ,Myanmar,MM,visa required
-34746,Tajikistan,TJ,Namibia,,90
+34746,Tajikistan,TJ,Namibia,NA,90
 34747,Tajikistan,TJ,Nauru,NR,visa required
 34748,Tajikistan,TJ,Nepal,NP,visa on arrival
 34749,Tajikistan,TJ,Netherlands,NL,visa required
@@ -34944,7 +34944,7 @@
 34942,Tanzania,TZ,Morocco,MA,visa required
 34943,Tanzania,TZ,Mozambique,MZ,visa free
 34944,Tanzania,TZ,Myanmar,MM,visa required
-34945,Tanzania,TZ,Namibia,,90
+34945,Tanzania,TZ,Namibia,NA,90
 34946,Tanzania,TZ,Nauru,NR,visa required
 34947,Tanzania,TZ,Nepal,NP,visa on arrival
 34948,Tanzania,TZ,Netherlands,NL,visa required
@@ -35143,7 +35143,7 @@
 35141,Thailand,TH,Morocco,MA,e-visa
 35142,Thailand,TH,Mozambique,MZ,visa on arrival
 35143,Thailand,TH,Myanmar,MM,14
-35144,Thailand,TH,Namibia,,visa on arrival
+35144,Thailand,TH,Namibia,NA,visa on arrival
 35145,Thailand,TH,Nauru,NR,visa required
 35146,Thailand,TH,Nepal,NP,visa on arrival
 35147,Thailand,TH,Netherlands,NL,visa required
@@ -35342,7 +35342,7 @@
 35340,Timor-Leste,TL,Morocco,MA,visa required
 35341,Timor-Leste,TL,Mozambique,MZ,visa on arrival
 35342,Timor-Leste,TL,Myanmar,MM,visa required
-35343,Timor-Leste,TL,Namibia,,visa required
+35343,Timor-Leste,TL,Namibia,NA,visa required
 35344,Timor-Leste,TL,Nauru,NR,visa required
 35345,Timor-Leste,TL,Nepal,NP,visa on arrival
 35346,Timor-Leste,TL,Netherlands,NL,90
@@ -35541,7 +35541,7 @@
 35539,Togo,TG,Morocco,MA,90
 35540,Togo,TG,Mozambique,MZ,visa on arrival
 35541,Togo,TG,Myanmar,MM,visa required
-35542,Togo,TG,Namibia,,visa on arrival
+35542,Togo,TG,Namibia,NA,visa on arrival
 35543,Togo,TG,Nauru,NR,visa required
 35544,Togo,TG,Nepal,NP,visa on arrival
 35545,Togo,TG,Netherlands,NL,visa required
@@ -35740,7 +35740,7 @@
 35738,Tonga,TO,Morocco,MA,visa required
 35739,Tonga,TO,Mozambique,MZ,visa on arrival
 35740,Tonga,TO,Myanmar,MM,visa required
-35741,Tonga,TO,Namibia,,visa required
+35741,Tonga,TO,Namibia,NA,visa required
 35742,Tonga,TO,Nauru,NR,visa on arrival
 35743,Tonga,TO,Nepal,NP,visa on arrival
 35744,Tonga,TO,Netherlands,NL,90
@@ -35939,7 +35939,7 @@
 35937,Trinidad and Tobago,TT,Morocco,MA,visa required
 35938,Trinidad and Tobago,TT,Mozambique,MZ,visa on arrival
 35939,Trinidad and Tobago,TT,Myanmar,MM,visa required
-35940,Trinidad and Tobago,TT,Namibia,,visa required
+35940,Trinidad and Tobago,TT,Namibia,NA,visa required
 35941,Trinidad and Tobago,TT,Nauru,NR,visa required
 35942,Trinidad and Tobago,TT,Nepal,NP,visa on arrival
 35943,Trinidad and Tobago,TT,Netherlands,NL,90
@@ -36138,7 +36138,7 @@
 36136,Tunisia,TN,Morocco,MA,90
 36137,Tunisia,TN,Mozambique,MZ,visa on arrival
 36138,Tunisia,TN,Myanmar,MM,visa required
-36139,Tunisia,TN,Namibia,,visa on arrival
+36139,Tunisia,TN,Namibia,NA,visa on arrival
 36140,Tunisia,TN,Nauru,NR,visa required
 36141,Tunisia,TN,Nepal,NP,visa on arrival
 36142,Tunisia,TN,Netherlands,NL,visa required
@@ -36337,7 +36337,7 @@
 36335,Turkey,TR,Morocco,MA,90
 36336,Turkey,TR,Mozambique,MZ,visa on arrival
 36337,Turkey,TR,Myanmar,MM,e-visa
-36338,Turkey,TR,Namibia,,visa on arrival
+36338,Turkey,TR,Namibia,NA,visa on arrival
 36339,Turkey,TR,Nauru,NR,visa required
 36340,Turkey,TR,Nepal,NP,visa on arrival
 36341,Turkey,TR,Netherlands,NL,visa required
@@ -36536,7 +36536,7 @@
 36534,Turkmenistan,TM,Morocco,MA,visa required
 36535,Turkmenistan,TM,Mozambique,MZ,visa on arrival
 36536,Turkmenistan,TM,Myanmar,MM,visa required
-36537,Turkmenistan,TM,Namibia,,90
+36537,Turkmenistan,TM,Namibia,NA,90
 36538,Turkmenistan,TM,Nauru,NR,visa required
 36539,Turkmenistan,TM,Nepal,NP,visa on arrival
 36540,Turkmenistan,TM,Netherlands,NL,visa required
@@ -36735,7 +36735,7 @@
 36733,Tuvalu,TV,Morocco,MA,visa required
 36734,Tuvalu,TV,Mozambique,MZ,visa on arrival
 36735,Tuvalu,TV,Myanmar,MM,visa required
-36736,Tuvalu,TV,Namibia,,visa required
+36736,Tuvalu,TV,Namibia,NA,visa required
 36737,Tuvalu,TV,Nauru,NR,visa on arrival
 36738,Tuvalu,TV,Nepal,NP,visa on arrival
 36739,Tuvalu,TV,Netherlands,NL,90
@@ -36934,7 +36934,7 @@
 36932,Uganda,UG,Morocco,MA,visa required
 36933,Uganda,UG,Mozambique,MZ,visa on arrival
 36934,Uganda,UG,Myanmar,MM,e-visa
-36935,Uganda,UG,Namibia,,visa on arrival
+36935,Uganda,UG,Namibia,NA,visa on arrival
 36936,Uganda,UG,Nauru,NR,visa required
 36937,Uganda,UG,Nepal,NP,visa on arrival
 36938,Uganda,UG,Netherlands,NL,visa required
@@ -37133,7 +37133,7 @@
 37131,Ukraine,UA,Morocco,MA,visa required
 37132,Ukraine,UA,Mozambique,MZ,30
 37133,Ukraine,UA,Myanmar,MM,e-visa
-37134,Ukraine,UA,Namibia,,90
+37134,Ukraine,UA,Namibia,NA,90
 37135,Ukraine,UA,Nauru,NR,visa required
 37136,Ukraine,UA,Nepal,NP,visa on arrival
 37137,Ukraine,UA,Netherlands,NL,90
@@ -37332,7 +37332,7 @@
 37330,United Arab Emirates,AE,Morocco,MA,90
 37331,United Arab Emirates,AE,Mozambique,MZ,30
 37332,United Arab Emirates,AE,Myanmar,MM,visa required
-37333,United Arab Emirates,AE,Namibia,,visa on arrival
+37333,United Arab Emirates,AE,Namibia,NA,visa on arrival
 37334,United Arab Emirates,AE,Nauru,NR,visa free
 37335,United Arab Emirates,AE,Nepal,NP,visa on arrival
 37336,United Arab Emirates,AE,Netherlands,NL,90
@@ -37531,7 +37531,7 @@
 37529,United Kingdom,GB,Morocco,MA,90
 37530,United Kingdom,GB,Mozambique,MZ,30
 37531,United Kingdom,GB,Myanmar,MM,e-visa
-37532,United Kingdom,GB,Namibia,,90
+37532,United Kingdom,GB,Namibia,NA,90
 37533,United Kingdom,GB,Nauru,NR,visa required
 37534,United Kingdom,GB,Nepal,NP,visa on arrival
 37535,United Kingdom,GB,Netherlands,NL,90
@@ -37730,7 +37730,7 @@
 37728,United States,US,Morocco,MA,90
 37729,United States,US,Mozambique,MZ,30
 37730,United States,US,Myanmar,MM,e-visa
-37731,United States,US,Namibia,,90
+37731,United States,US,Namibia,NA,90
 37732,United States,US,Nauru,NR,visa required
 37733,United States,US,Nepal,NP,visa on arrival
 37734,United States,US,Netherlands,NL,90
@@ -37929,7 +37929,7 @@
 37927,Uruguay,UY,Morocco,MA,visa required
 37928,Uruguay,UY,Mozambique,MZ,visa on arrival
 37929,Uruguay,UY,Myanmar,MM,e-visa
-37930,Uruguay,UY,Namibia,,visa required
+37930,Uruguay,UY,Namibia,NA,visa required
 37931,Uruguay,UY,Nauru,NR,visa required
 37932,Uruguay,UY,Nepal,NP,visa on arrival
 37933,Uruguay,UY,Netherlands,NL,90
@@ -38128,7 +38128,7 @@
 38126,Uzbekistan,UZ,Morocco,MA,visa required
 38127,Uzbekistan,UZ,Mozambique,MZ,visa on arrival
 38128,Uzbekistan,UZ,Myanmar,MM,e-visa
-38129,Uzbekistan,UZ,Namibia,,90
+38129,Uzbekistan,UZ,Namibia,NA,90
 38130,Uzbekistan,UZ,Nauru,NR,visa required
 38131,Uzbekistan,UZ,Nepal,NP,visa on arrival
 38132,Uzbekistan,UZ,Netherlands,NL,visa required
@@ -38327,7 +38327,7 @@
 38325,Vanuatu,VU,Morocco,MA,visa required
 38326,Vanuatu,VU,Mozambique,MZ,visa on arrival
 38327,Vanuatu,VU,Myanmar,MM,visa required
-38328,Vanuatu,VU,Namibia,,visa required
+38328,Vanuatu,VU,Namibia,NA,visa required
 38329,Vanuatu,VU,Nauru,NR,visa on arrival
 38330,Vanuatu,VU,Nepal,NP,visa on arrival
 38331,Vanuatu,VU,Netherlands,NL,visa required
@@ -38526,7 +38526,7 @@
 38524,Vatican,VA,Morocco,MA,visa required
 38525,Vatican,VA,Mozambique,MZ,visa on arrival
 38526,Vatican,VA,Myanmar,MM,visa required
-38527,Vatican,VA,Namibia,,visa required
+38527,Vatican,VA,Namibia,NA,visa required
 38528,Vatican,VA,Nauru,NR,visa required
 38529,Vatican,VA,Nepal,NP,visa on arrival
 38530,Vatican,VA,Netherlands,NL,90
@@ -38725,7 +38725,7 @@
 38723,Venezuela,VE,Morocco,MA,visa required
 38724,Venezuela,VE,Mozambique,MZ,visa on arrival
 38725,Venezuela,VE,Myanmar,MM,e-visa
-38726,Venezuela,VE,Namibia,,visa on arrival
+38726,Venezuela,VE,Namibia,NA,visa on arrival
 38727,Venezuela,VE,Nauru,NR,visa required
 38728,Venezuela,VE,Nepal,NP,visa on arrival
 38729,Venezuela,VE,Netherlands,NL,90
@@ -38924,7 +38924,7 @@
 38922,Vietnam,VN,Morocco,MA,visa required
 38923,Vietnam,VN,Mozambique,MZ,visa on arrival
 38924,Vietnam,VN,Myanmar,MM,14
-38925,Vietnam,VN,Namibia,,visa on arrival
+38925,Vietnam,VN,Namibia,NA,visa on arrival
 38926,Vietnam,VN,Nauru,NR,visa required
 38927,Vietnam,VN,Nepal,NP,visa on arrival
 38928,Vietnam,VN,Netherlands,NL,visa required
@@ -39123,7 +39123,7 @@
 39121,Yemen,YE,Morocco,MA,visa required
 39122,Yemen,YE,Mozambique,MZ,visa on arrival
 39123,Yemen,YE,Myanmar,MM,visa required
-39124,Yemen,YE,Namibia,,visa required
+39124,Yemen,YE,Namibia,NA,visa required
 39125,Yemen,YE,Nauru,NR,visa required
 39126,Yemen,YE,Nepal,NP,visa on arrival
 39127,Yemen,YE,Netherlands,NL,visa required
@@ -39322,7 +39322,7 @@
 39320,Zambia,ZM,Morocco,MA,visa required
 39321,Zambia,ZM,Mozambique,MZ,visa free
 39322,Zambia,ZM,Myanmar,MM,visa required
-39323,Zambia,ZM,Namibia,,90
+39323,Zambia,ZM,Namibia,NA,90
 39324,Zambia,ZM,Nauru,NR,visa required
 39325,Zambia,ZM,Nepal,NP,visa on arrival
 39326,Zambia,ZM,Netherlands,NL,visa required
@@ -39521,7 +39521,7 @@
 39519,Zimbabwe,ZW,Morocco,MA,visa required
 39520,Zimbabwe,ZW,Mozambique,MZ,visa free
 39521,Zimbabwe,ZW,Myanmar,MM,visa required
-39522,Zimbabwe,ZW,Namibia,,90
+39522,Zimbabwe,ZW,Namibia,NA,90
 39523,Zimbabwe,ZW,Nauru,NR,visa required
 39524,Zimbabwe,ZW,Nepal,NP,visa required
 39525,Zimbabwe,ZW,Netherlands,NL,visa required
