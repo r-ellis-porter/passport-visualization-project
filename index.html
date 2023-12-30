@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Passport Entry Map</title>
+  
+  <!-- D3 library -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  
+  <!-- jquery vector map -->
+  <link href="../dist/jqvmap.css" media="screen" rel="stylesheet" type="text/css">
+
+  <script type="text/javascript" src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+  <script type="text/javascript" src="static/js/jquery.vmap.js"></script>
+  <script type="text/javascript" src="static/js/jquery.vmap.world.js" charset="utf-8"></script>
+
+  <script type="text/javascript">
+  jQuery(document).ready(function() {
+    jQuery('#vmap').vectorMap({ 
+      map: 'world_en',
+      backgroundColor: '#333333',
+      color: '#ffffff',
+      hoverOpacity: 0.7,
+      selectedColor: '#666666',
+      enableZoom: true,
+      showTooltip: true,
+      scaleColors: ['#C8EEFF', '#006491'],
+      values: sample_data,
+      normalizeFunction: 'polynomial'
+    });
+  });
+  </script>
+  
+  <!-- Our CSS -->
+  <link rel="stylesheet" type="text/css" href="static/css/style.css">
+
+</head>
+
+<body>
+  
+  <!-- The div that holds our map -->  
+  <div id="vmap" style="width: 1200px; height: 800px;"></div>
+  
+  <!-- Our JavaScript file -->
+  <script type="text/javascript" src="static/js/logic.js"></script>
+
+</body>
+</html>
