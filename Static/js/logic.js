@@ -14,7 +14,7 @@ let geoData;
 
 // Load paths
 const passport_db = 'Resources/passport_db.csv'
-const geoDataPath = 'Resources/country_borders.json'
+const geoDataPath = 'Resources/country_boundaries_large.json'
 
 // Read geoJSON into geoData
 d3.json(geoDataPath).then(data => {
@@ -55,7 +55,7 @@ function updateMap(selection) {
     }
     geoLayer = L.geoJson(geoData, {
         style: feature => {
-            let requirement = requirements[feature.properties.ISO_A2];
+            let requirement = requirements[feature.properties.ISO_A2_EH];
             return {
                 fillColor: requirementColor(requirement),
                 weight: 2,
@@ -64,6 +64,12 @@ function updateMap(selection) {
                 fillOpacity: 0.7
             };
         }
+        // ------------- dont forget this part ------------------
+    // }).bindPopup(function (layer) {
+    //     let origin = ;
+    //     let entryRequirement = layer.feature.properties.place;
+    //     let visaFreeDays = new Date(layer.feature.properties.time).toLocaleString();
+    //     return `<h3>${place}<br>${date}<br>Magnitude: ${mag}</h3>`;
     }).addTo(map);
 };
 
@@ -79,20 +85,20 @@ function entryRequirement(data) {
 function requirementColor(requirement) {
     // Return a color based on the requirement
     switch (requirement) {
-        case '-1':
+        case 'Selected Country':
             return 'white';
         case 'e-visa':
-            return 'orange';
-        case 'visa required':
-            return 'yellow';
-        case 'visa on arrival':
-            return 'blue';
-        case 'visa free':
-            return 'green';
-        case 'no admission':
-            return 'red';
+            return '#f59120'; // orange
+        case 'Visa Required':
+            return '#9078b6'; // purple
+        case 'Visa on Arrival':
+            return '#e1a2c9'; // pink
+        case 'Visa Free':
+            return '#94c23d'; // green
+        case 'No Admission':
+            return '#f1553d'; // red
         default:
-            return 'gray';
+            return '#d3d3d3'; // grey
     }
 };
 
@@ -106,7 +112,7 @@ function optionChanged(selection) {
 let legend = L.control({ position: 'bottomright' });
 legend.onAdd = function() {
     let div = L.DomUtil.create('div', 'info legend');
-    let entry = ['-1', 'e-visa', 'visa required', 'visa on arrival', 'visa free', 'no admission']
+    let entry = ['Selected Country', 'Visa Free', 'Visa on Arrival', 'e-visa', 'Visa Required', 'No Admission', 'Other']
     let labels = [];
 
     // Add the legend title.
