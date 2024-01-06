@@ -12,8 +12,18 @@ from bson import ObjectId
 # Database Setup
 #################################################
 
-client = MongoClient('mongodb://localhost:27017/')   ## probably going to need to write this up
-db = client['geo_data']                              ## I used mongodb compass to import json to db
+## Open Terminal and navigate to the Resources folder where country_boundaries.json is stored.
+
+## Import the `country_boundaries.json` file with the following line in Terminal:
+
+# ---- shell -----
+
+# mongoimport --type json -d geo_data -c country_boundaries --drop --jsonArray country_boundaries.json
+    
+# ---- shell -----
+
+client = MongoClient('mongodb://localhost:27017/')   
+db = client['geo_data']                              
 collection = db['country_boundaries']
 
 #################################################
@@ -27,9 +37,11 @@ app = Flask(__name__)
 def welcome():
     return (
         f"Available Static Routes:<br/><br/>"                           ## prob going to separate data from vis
-        f"/data/passport_data<br/>"
-        f"/data/region_data<br/>"
         f"/interactive_map<br/><br/>"
+        f"Data Routes:<br/><br/>"
+        f"/data/passport_data<br/>"
+        f"/data/geo_data<br/>"
+
         # f"Summary Statistics Dynamic Date Range Routes:<br/><br/>"        ## room for our other views
         # f"~~~ start (enter as YYYY-MM-DD)<br/>"
         # f"/api/v1.0/start/ <br/>"

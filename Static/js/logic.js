@@ -13,8 +13,8 @@ let passportData;
 let geoData;
 
 // Load paths
-const passport_db = '/data/passport_data'
-const geoDataPath = '/data/geo_data'
+const passport_db = 'data/passport_data'
+const geoDataPath = 'data/geo_data'
 
 // Read geoJSON into geoData
 d3.json(geoDataPath).then(data => {
@@ -97,13 +97,6 @@ function entryRequirement(data) {
     console.log(requirements)
     return requirements;
 };
-
-// Map the country name from the country iso code
-let codeToName = {};
-passportData.forEach(row => {
-    codeToName[row[1]] = row[0];
-});
-
 
 // Add clickFeature function for when map is clicked
 function clickFeature(feature, layer) {
