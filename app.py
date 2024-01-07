@@ -18,8 +18,8 @@ from bson import ObjectId
 
 # ---- shell -----
 
-# mongoimport --type json -d geo_data -c country_boundaries --drop --jsonArray country_boundaries.json
-    
+# mongoimport --type json -d geo_data -c country_boundaries --drop --file country_boundaries.json
+  
 # ---- shell -----
 
 client = MongoClient('mongodb://localhost:27017/')   
@@ -94,7 +94,7 @@ def geo_data():
 @app.route('/interactive_map')
 
 def interactive_map():
-    return render_template('index.html')
+    return render_template('map_index.html')
 
 
 #################################################
