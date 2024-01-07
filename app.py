@@ -6,7 +6,7 @@ import json
 import pymongo
 from pymongo import MongoClient
 from bson import ObjectId
-
+from postgres_info import host, dbname, user, password, port
 
 #################################################
 # Database Setup
@@ -36,8 +36,9 @@ app = Flask(__name__)
 @app.route("/")
 def welcome():
     return (
-        f"Available Static Routes:<br/><br/>"                           ## prob going to separate data from vis
-        f"/interactive_map<br/><br/>"
+        f"Available Static Routes:<br/><br/>"
+        f"/interactive_map<br/>"
+        f"/interactive_charts<br/><br/>"
         f"Data Routes:<br/><br/>"
         f"/data/passport_data<br/>"
         f"/data/geo_data<br/>"
@@ -60,11 +61,11 @@ def welcome():
 
 def passport_data():
     conn = psycopg2.connect(
-        host='localhost',
-        dbname='passport_index',
-        user='postgres',
-        password='(7$0Uh)6#6J05N5',
-        port='5432'
+        host= host,
+        dbname= dbname,
+        user= user,
+        password= password,
+        port= port
     )
     cur = conn.cursor()
     cur.execute('SELECT * FROM country_passport_merge;')
@@ -96,6 +97,10 @@ def geo_data():
 def interactive_map():
     return render_template('map_index.html')
 
+@app.route('/interactive_charts')
+
+def interactive_charts():
+    return render_template('bar_index.html')
 
 #################################################
 # Initialize

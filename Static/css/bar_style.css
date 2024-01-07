@@ -1,0 +1,7 @@
+/* Formatting our chart container */
+
+#chart-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

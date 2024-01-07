@@ -1,6 +1,6 @@
 let map = L.map('map', {
     center: [24,4],
-    zoom: 3
+    zoom: 2
   });
 
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -11,6 +11,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 let geoLayer;
 let passportData;
 let geoData;
+let popupTimeout;
 
 // Load paths
 const passport_db = '/data/passport_data'
@@ -69,13 +70,16 @@ function init() {
 function updateMap(selection) {
     let selectionData = passportData.filter(row => row[0] === selection);
     let requirements = entryRequirement(selectionData);
+    vfd = visaFreeDays(selectionData);
 
     if (geoLayer) {
         map.removeLayer(geoLayer);
     }
     geoLayer = L.geoJson(geoData, {
         style: feature => {
+            console.log(feature);
             let requirement = requirements[feature.properties.ISO_A2_EH];
+            console.log(requirement);
             return {
                 fillColor: requirementColor(requirement),
                 weight: 2,
@@ -84,8 +88,33 @@ function updateMap(selection) {
                 fillOpacity: 0.7
             }
         },
-        onEachFeature: clickFeature
-    }).addTo(map);
+        onEachFeature: (feature, layer)=> {
+            clickFeature(feature, layer);
+            layer.on({
+                mouseover: hover=> {
+                    clearTimeout(popupTimeout);
+                    popupTimeout = setTimeout( function() {
+                        let layer = hover.target;
+                        let entryReq = '';
+                        if (requirements[feature.properties.ISO_A2_EH] != 'Selected Country') {
+                            entryReq = `Entry Requirement: ${requirements[feature.properties.ISO_A2_EH]}`
+                        } else {
+                            entryReq = '</br>Selected Country'
+                        }
+                        let days = '';
+                        if (vfd[feature.properties.ISO_A2_EH]) {
+                            days = `Visa Free Days: ${vfd[feature.properties.ISO_A2_EH]}`;
+                        }
+                        layer.bindPopup(`${feature.properties.NAME} </br> ${entryReq} </br> ${days}`)
+                            .openPopup(hover.latlng);
+                    }, 500);
+                },
+                mouseout: hover=> {
+                    clearTimeout(popupTimeout);
+                    hover.target.closePopup();
+                }
+            });
+    }}).addTo(map);
 };
 
 // Return the requirement based on destination code
@@ -98,11 +127,22 @@ function entryRequirement(data) {
     return requirements;
 };
 
+// Return the number of visa free days allowed 
+function visaFreeDays(data) {
+    let days = {};
+    data.forEach(row => {
+        if (row[4] === 'Visa Free') {
+            days[row[3]] = row[5];
+        }
+    });
+    return days;
+};
+
 // Add clickFeature function for when map is clicked
 function clickFeature(feature, layer) {
     layer.on({
         click: click=> {
-            // map dropdown country name to iso code
+            // Map dropdown country name to iso code
             let codeToName = {};
             passportData.forEach(row => {
                 codeToName[row[1]] = row[0];
@@ -127,15 +167,15 @@ function requirementColor(requirement) {
         case 'Selected Country':
             return 'white';
         case 'e-visa':
-            return '#f59120'; // orange
+            return '#f2c14e'; // yellow
         case 'Visa Required':
-            return '#9078b6'; // purple
+            return '#f78154'; // orange
         case 'Visa on Arrival':
-            return '#e1a2c9'; // pink
+            return '#4d9078'; // green
         case 'Visa Free':
-            return '#94c23d'; // green
+            return '#5fad56'; // green
         case 'No Admission':
-            return '#f1553d'; // red
+            return '#b4436c'; // red
         default:
             return '#d3d3d3'; // grey
     }
@@ -146,5 +186,4 @@ function optionChanged(selection) {
     console.log(selection);
     updateMap(selection);
 };
-
 
