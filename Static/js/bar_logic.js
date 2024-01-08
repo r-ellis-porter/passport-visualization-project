@@ -90,7 +90,8 @@ function topBarChart(data) {
         title: 'Top 10 Countries',
         xaxis: { 
             title: 'Total Destinations' 
-        }
+        },
+        paper_bgcolor: 'rgba(255,255,255,0.7)'
     };
 
     Plotly.newPlot('topBar', [trace], layout);
@@ -115,7 +116,8 @@ function bottomBarChart(data) {
         title: 'Bottom 10 Countries',
         xaxis: { 
             title: 'Total Destinations' 
-        }
+        },
+        paper_bgcolor: 'rgba(255,255,255,0.7)'
     };
 
     Plotly.newPlot('bottomBar', [trace], layout);

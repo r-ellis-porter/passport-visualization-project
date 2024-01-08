@@ -1,3 +1,5 @@
+{% extends 'base.html' %}
+{% block content %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -32,17 +34,18 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12 jumbotron text-center">
-        <h1>Visa Entry Requirements by Passport Issuing Country</h1>
+        <h1>Global Passport Access: Entry Requirement Insights</h1>
         <p>Use the dropdown menu below or click on the country of origin to select a passport.</p>
       </div>
     </div>
   </div>  
   <!-- Country Selection Panel -->
-  <div class="row">
-    <h5>Select Country:</h5>
-    <select id="countrySel" onchange="optionChanged(this.value)"></select>
+  <div class="dropdown">  
+    <div class="row">
+      <h3>Select Country:</h3>
+      <select id="countrySel" onchange="optionChanged(this.value)"></select>
+    </div>
   </div>
-
   <!-- Create container to hold map and chart -->
   <div class="container" ></div>
     <div id="views-container">
@@ -57,3 +60,4 @@
 
 </body>
 </html>
+{% endblock %}

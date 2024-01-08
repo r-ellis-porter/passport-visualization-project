@@ -34,15 +34,9 @@ app = Flask(__name__)
 
 # welcome page and routes
 @app.route("/")
+
 def welcome():
-    return (
-        f"Available Static Routes:<br/><br/>"
-        f"/interactive_map<br/>"
-        f"/interactive_charts<br/><br/>"
-        f"Data Routes:<br/><br/>"
-        f"/data/passport_data<br/>"
-        f"/data/geo_data<br/>"
-    )
+    return render_template('welcome.html')
 
 
 #################################################

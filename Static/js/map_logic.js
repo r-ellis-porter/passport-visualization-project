@@ -25,21 +25,16 @@ d3.json(geoDataPath).then(data => {
 })
 
 // Add a legend to map
-let legend = L.control({ position: 'bottomright' });
+let legend = L.control({ position: 'bottomleft' });
 legend.onAdd = function() {
     let div = L.DomUtil.create('div', 'info legend');
     let entry = ['Selected Country', 'Visa Free', 'Visa on Arrival', 'e-visa', 'Visa Required', 'No Admission', 'Other']
     let labels = [];
-
-    // Add the legend title.
-    let legendInfo = "<h3>Entry Requirements</h3>";
-
+    let legendInfo = "<h3>Legend</h3>";
     div.innerHTML = legendInfo;
-
     entry.forEach(function(entry, index) {
       labels.push("<li style=\"background-color: " + requirementColor(entry) + "\">" + entry + "</li>");
     });
-
     div.innerHTML += "<ul>" + labels.join("") + "</ul>";
     return div;
   };
@@ -173,18 +168,21 @@ function updatePieChart(selection) {
                 requirementSums[requirement]++;
             } else {
                 requirementSums[requirement] = 1;
-        }
+            }
         };
     });
     let trace = [{
         values: Object.values(requirementSums),
         labels: Object.keys(requirementSums),
-        type: 'pie'
+        type: 'pie',
+        marker: {colors: Object.keys(requirementSums).map(requirementColor)}
     }];
     let layout = {
-        title: 'Entry Requirement Totals for Selected Country',
-        height: 400,
-        width: 500
+        title: `Entry Requirement Distribution for ${selection}`,
+        height: 600,
+        width: 700,
+        paper_bgcolor: 'rgba(255, 255, 255, 0.7)',
+        legend: {x: 1, y:0}
     };
     Plotly.newPlot('pieChart', trace, layout)
 };
