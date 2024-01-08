@@ -1,17 +1,8 @@
 // Load paths
 const passport_db = 'data/passport_data'
-// const geoDataPath = 'data/geo_data'              // delete
-
-// // Read geoJSON into geoData                     // delete
-// d3.json(geoDataPath).then(data => {
-//     console.log(data);
-//     geoData = data;
-//     init();
-// });
 
 // Declare global variables
 let passportData;
-// let geoData;                                     // delete
 
 // initialize
 function init() {
@@ -45,8 +36,6 @@ function optionChanged(selection) {
         bottomBarChart(data.bottom10);
     })
 };
-
-// ---- ^^ should be good ------                            // delete
 
 // Return slice of top/bottom 10 countries with selected requirement
 function sortedData(requirement) {
@@ -82,10 +71,6 @@ function sortedData(requirement) {
     });
 };
 
-
-// ################################## working below                             // delete
-
-
 // top 10 bar chart
 function topBarChart(data) {
     let xValues = [];
@@ -95,14 +80,12 @@ function topBarChart(data) {
         xValues.push(data[i][1]);
         yValues.push(data[i][0]);
     };
-
     let trace = {
         x: xValues,
         y: yValues,
         type: 'bar',
         orientation: 'h'
     };
-
     let layout = {
         title: 'Top 10 Countries',
         xaxis: { 
@@ -122,14 +105,12 @@ function bottomBarChart(data) {
         xValues.push(data[i][1]);
         yValues.push(data[i][0]);
     }
-
     let trace = {
         x: xValues,
         y: yValues,
         type: 'bar',
         orientation: 'h'
     };
-
     let layout = {
         title: 'Bottom 10 Countries',
         xaxis: { 

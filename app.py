@@ -42,12 +42,6 @@ def welcome():
         f"Data Routes:<br/><br/>"
         f"/data/passport_data<br/>"
         f"/data/geo_data<br/>"
-
-        # f"Summary Statistics Dynamic Date Range Routes:<br/><br/>"        ## room for our other views
-        # f"~~~ start (enter as YYYY-MM-DD)<br/>"
-        # f"/api/v1.0/start/ <br/>"
-        # f"~~~ start/end  (enter as YYYY-MM-DD/YYYY-MM-DD)<br/>"
-        # f"/api/v1.0/start/end"
     )
 
 

@@ -1,0 +1,7 @@
+/* Formatting our views container */
+
+#views-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

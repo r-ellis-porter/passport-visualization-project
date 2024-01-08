@@ -96,7 +96,7 @@ function updateMap(selection) {
                     popupTimeout = setTimeout( function() {
                         let layer = hover.target;
                         let entryReq = '';
-                        if (requirements[feature.properties.ISO_A2_EH] != 'Selected Country') {
+                        if (requirements[feature.properties.ISO_A2_EH] !== 'Selected Country') {
                             entryReq = `Entry Requirement: ${requirements[feature.properties.ISO_A2_EH]}`
                         } else {
                             entryReq = '</br>Selected Country'
@@ -115,6 +115,7 @@ function updateMap(selection) {
                 }
             });
     }}).addTo(map);
+    updatePieChart(selection);
 };
 
 // Return the requirement based on destination code
@@ -159,6 +160,33 @@ function updateDropdownMenu(clickedCountry) {
     let dropdownMenu = d3.select('#countrySel');
     dropdownMenu.property('value', clickedCountry);
     optionChanged(clickedCountry); 
+};
+
+// Create and update pie chart
+function updatePieChart(selection) {
+    let selectionData = passportData.filter(row => row[0] === selection);
+    let requirementSums = {};
+    selectionData.forEach(row => {
+        let requirement = row[4];
+        if (requirement !== 'Selected Country') {
+            if (requirementSums[requirement]) {
+                requirementSums[requirement]++;
+            } else {
+                requirementSums[requirement] = 1;
+        }
+        };
+    });
+    let trace = [{
+        values: Object.values(requirementSums),
+        labels: Object.keys(requirementSums),
+        type: 'pie'
+    }];
+    let layout = {
+        title: 'Entry Requirement Totals for Selected Country',
+        height: 400,
+        width: 500
+    };
+    Plotly.newPlot('pieChart', trace, layout)
 };
 
 // Return a color based on requirement
