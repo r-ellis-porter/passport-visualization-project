@@ -14,19 +14,19 @@ To use the Interactive Charts:
    2. Use the drop down menu to select an entry requirement.
    3. Hover over the bar to see the total number of destinations with the selected requirement.
 
-(/Visualizations/Snapshots/interactive_map.png)
+![Image Alt Text](/Visualizations/Snapshots/interactive_map.png)
 
 To use the Interactive Visa Requirement Map:
     1. Navigate to the map on our welcome page.
     2. Use the drop down menu or click on a country to view specific visa requirements for destination countries.
     3. Use the legend to understand the color coding for different visa requirements.
-    4. For detailed information, hover over the country to view the country's name, entry requirements for selected country, and length of visa free stay if applicable. 
-
+    4. For detailed information, hover over the country to view the country's name, entry requirements for selected country, and length of visa free stay if applicable.
 
 
 
 	In developing this project, we prioritized ethical considerations in handling data and presenting information.  
 	 We are committed to:
+  
 Accuracy: Ensuring that the visa information is accurate and up-to-date, sourced from reliable and official sources.
 Privacy: Respecting user privacy by not tracking or storing personal information or search history.
 Accessibility: Making the map accessible to all users, including those with disabilities, by following web accessibility standards.
