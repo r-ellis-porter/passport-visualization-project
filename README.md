@@ -17,10 +17,10 @@ To use the Interactive Charts:
 ![Image Alt Text](/Visualizations/Snapshots/interactive_map.png)
 
 To use the Interactive Visa Requirement Map:
-    1. Navigate to the map on our welcome page.
-    2. Use the drop down menu or click on a country to view specific visa requirements for destination countries.
-    3. Use the legend to understand the color coding for different visa requirements.
-    4. For detailed information, hover over the country to view the country's name, entry requirements for selected country, and length of visa free stay if applicable.
+   1. Navigate to the map on our welcome page.
+   2. Use the drop down menu or click on a country to view specific visa requirements for destination countries.
+   3. Use the legend to understand the color coding for different visa requirements.
+   4. For detailed information, hover over the country to view the country's name, entry requirements for selected country, and length of visa free stay if applicable.
 
 
 
