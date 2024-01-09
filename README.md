@@ -5,18 +5,18 @@ The classmates working on this project are Alexandra Turner, Ellis Porter, Isha 
     * An overview of the project and its purpose
 The Interactive Visa Requirement Map is a tool designed to simplify the process of understanding global travel restrictions and visa requirements. Its primary purpose is to provide travelers with an easy-to-use, visual representation of the visa requirements for different countries, indicating whether a visa is required, visa-free, not admitted, visa on arrival, or if an e-visa is required.
 
-(/Snapshots/welcome_page.png)
+(/Visualizations/Snapshots/welcome_page.png)
 
     * Instructions on how to use and interact with the project
 
-(/Snapshots/interactive_charts.png)
+(/Visualizations/Snapshots/interactive_charts.png)
 
 To use the Interactive Charts:
    1. Navigate to the charts on our welcome page.
    2. Use the drop down menu to select an entry requirement.
    3. Hover over the bar to see the total number of destinations with the selected requirement.
 
-(/Snapshots/interactive_map.png)
+(/Visualizations/Snapshots/interactive_map.png)
 
 To use the Interactive Visa Requirement Map:
     1. Navigate to the map on our welcome page.
@@ -48,7 +48,7 @@ https://www.digitalocean.com/community/tutorials/how-to-use-a-postgresql-databas
 https://cdn.insuremytrip.com/resources/30983/do-i-need-a-passport.jpg - background image ref
 
 
-
+(/Visualizations/team_logo.png)
 						
 							Working with Our Group
 When we started this project, the first thing we did was create a private Slack channel so all of our communication would be in one place. We also accommodated to everyone’s busy schedule, and were able to meet over the weekend when everyone was available. Additionally, everyone in our group had specific tasks and those were as follows:
