@@ -43,7 +43,6 @@ To use the Interactive Visa Requirement Map:
 - https://cdn.insuremytrip.com/resources/30983/do-i-need-a-passport.jpg - background image ref
 
 
-![Image Alt Text](/Visualizations/team_logo.png)
 						
 							Working with Our Group
 When we started this project, the first thing we did was create a private Slack channel so all of our communication would be in one place. We also accommodated to everyone’s busy schedule, and were able to meet over the weekend when everyone was available. Additionally, everyone in our group had specific tasks and those were as follows:
@@ -57,4 +56,7 @@ Isha -  Project ideation, data fetching/searching, quickDBD mapping, SQL databas
 Julia - Project ideation, data fetching, created/edited the presentation, imported necessary images and data to outline project, collaborated with teammates on design choices and slide order, and added PowerPoint to GitHub. 
 
 Xiang - Project ideation, data fetching, logo creation, CSS styling & color selection.
+
+
+![Image Alt Text](/Visualizations/team_logo.png)
 
