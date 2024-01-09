@@ -25,19 +25,18 @@ To use the Interactive Visa Requirement Map:
 
 	In developing this project, we prioritized ethical considerations in handling data and presenting information.  
 	 We are committed to:
-* Accuracy: Ensuring that the visa information is accurate and up-to-date, sourced from reliable and official sources.
-* Privacy: Respecting user privacy by not tracking or storing personal information or search history.
-* Accessibility: Making the map accessible to all users, including those with disabilities, by following web accessibility standards.
-* Cultural Sensitivity: Presenting information in a manner that is respectful and sensitive to different cultures and practices.
+- Accuracy: Ensuring that the visa information is accurate and up-to-date, sourced from reliable and official sources.
+- Privacy: Respecting user privacy by not tracking or storing personal information or search history.
+- Accessibility: Making the map accessible to all users, including those with disabilities, by following web accessibility standards.
+- Cultural Sensitivity: Presenting information in a manner that is respectful and sensitive to different cultures and practices.
 
-
-      References for the data source(s)
+      * References for the data source(s)
 - https://www.naturalearthdata.com/ - where we found the country boundary data 
 - https://github.com/ilyankou/passport-index-dataset - passport entry data 
 - https://developers.google.com/public-data/docs/canonical/countries_csv - iso2 country data
 
 
-      References for any code used that is not your own
+      * References for any code used that is not your own
 - https://www.digitalocean.com/community/tutorials/how-to-use-a-postgresql-database-in-a-flask-application - used to learn how to use Postgres in Flask
 - https://cdn.insuremytrip.com/resources/30983/do-i-need-a-passport.jpg - background image ref
 
