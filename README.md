@@ -25,8 +25,8 @@ To use the Interactive Visa Requirement Map:
 
 
 
-	In developing this project, we prioritized ethical considerations in handling data and presenting information.       
-   We are committed to:
+	In developing this project, we prioritized ethical considerations in handling data and presenting information.  
+	 We are committed to:
 Accuracy: Ensuring that the visa information is accurate and up-to-date, sourced from reliable and official sources.
 Privacy: Respecting user privacy by not tracking or storing personal information or search history.
 Accessibility: Making the map accessible to all users, including those with disabilities, by following web accessibility standards.
