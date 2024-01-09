@@ -1,21 +1,23 @@
-The classmates working on this project are Alexandra Turner, Ellis Porter, Isha Chaware, Julia Dettman, and Xiang Li. 
+# Passport Mobility Analysis
 
-    * An overview of the project and its purpose
+Team: Alexandra Turner, Ellis Porter, Isha Chaware, Julia Dettman, and Xiang Li. 
+
+## Overview & Purpose
 The Interactive Visa Requirement Map is a tool designed to simplify the process of understanding global travel restrictions and visa requirements. Its primary purpose is to provide travelers with an easy-to-use, visual representation of the visa requirements for different countries, indicating whether a visa is required, visa-free, not admitted, visa on arrival, or if an e-visa is required.
 
 
-    * Instructions on how to use and interact with the project
+# User Interaction Instructions
 
 ![Image Alt Text](/Visualizations/Snapshots/welcome_page.png)
 
-To use the Interactive Charts:
+# To use the Interactive Charts:
    1. Navigate to the charts on our welcome page.
    2. Use the drop down menu to select an entry requirement.
    3. Hover over the bar to see the total number of destinations with the selected requirement.
 
 ![Image Alt Text](/Visualizations/Snapshots/interactive_charts.png)
 
-To use the Interactive Visa Requirement Map:
+# To use the Interactive Visa Requirement Map:
    1. Navigate to the map on our welcome page.
    2. Use the drop down menu or click on a country to view specific visa requirements for destination countries.
    3. Use the legend to understand the color coding for different visa requirements.
@@ -23,6 +25,7 @@ To use the Interactive Visa Requirement Map:
 
 ![Image Alt Text](/Visualizations/Snapshots/interactive_map.png)
 
+# Data Ethics & Considerations
 	In developing this project, we prioritized ethical considerations in handling data and presenting information.  
 	 We are committed to:
  - Accuracy: Ensuring that the visa information is accurate and up-to-date, sourced from reliable and official sources.
@@ -30,13 +33,13 @@ To use the Interactive Visa Requirement Map:
  - Accessibility: Making the map accessible to all users, including those with disabilities, by following web accessibility standards.
  - Cultural Sensitivity: Presenting information in a manner that is respectful and sensitive to different cultures and practices.
 
-       References for the data source(s)
+   # References for the data source(s)
   - https://www.naturalearthdata.com/ - where we found the country boundary data 
  - https://github.com/ilyankou/passport-index-dataset - passport entry data 
  - https://developers.google.com/public-data/docs/canonical/countries_csv - iso2 country data
 
 
-       References for any code used that is not your own
+   # References for any code used that is not your own
   - https://www.digitalocean.com/community/tutorials/how-to-use-a-postgresql-database-in-a-flask-application - used to learn how to use Postgres in Flask
   - https://cdn.insuremytrip.com/resources/30983/do-i-need-a-passport.jpg - background image ref
 
