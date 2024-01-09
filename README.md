@@ -37,7 +37,6 @@ To use the Interactive Visa Requirement Map:
 - https://developers.google.com/public-data/docs/canonical/countries_csv - iso2 country data
 
 
-
       References for any code used that is not your own
 - https://www.digitalocean.com/community/tutorials/how-to-use-a-postgresql-database-in-a-flask-application - used to learn how to use Postgres in Flask
 - https://cdn.insuremytrip.com/resources/30983/do-i-need-a-passport.jpg - background image ref
