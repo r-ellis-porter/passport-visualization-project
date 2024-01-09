@@ -5,11 +5,11 @@ The classmates working on this project are Alexandra Turner, Ellis Porter, Isha 
     * An overview of the project and its purpose
 The Interactive Visa Requirement Map is a tool designed to simplify the process of understanding global travel restrictions and visa requirements. Its primary purpose is to provide travelers with an easy-to-use, visual representation of the visa requirements for different countries, indicating whether a visa is required, visa-free, not admitted, visa on arrival, or if an e-visa is required.
 
-(/Visualizations/Snapshots/welcome_page.png)
+![Image Alt Text](/Visualizations/Snapshots/welcome_page.png)
 
     * Instructions on how to use and interact with the project
 
-(/Visualizations/Snapshots/interactive_charts.png)
+![Image Alt Text](/Visualizations/Snapshots/interactive_charts.png)
 
 To use the Interactive Charts:
    1. Navigate to the charts on our welcome page.
@@ -27,7 +27,7 @@ To use the Interactive Visa Requirement Map:
 
 
 
-	In developing this project, we prioritized ethical considerations in handling data and presenting information. We are committed to:
+	In developing this project, we prioritized ethical considerations in handling data and presenting                                   information. We are committed to:
 Accuracy: Ensuring that the visa information is accurate and up-to-date, sourced from reliable and official sources.
 Privacy: Respecting user privacy by not tracking or storing personal information or search history.
 Accessibility: Making the map accessible to all users, including those with disabilities, by following web accessibility standards.
@@ -48,7 +48,7 @@ https://www.digitalocean.com/community/tutorials/how-to-use-a-postgresql-databas
 https://cdn.insuremytrip.com/resources/30983/do-i-need-a-passport.jpg - background image ref
 
 
-(/Visualizations/team_logo.png)
+![Image Alt Text](/Visualizations/team_logo.png)
 						
 							Working with Our Group
 When we started this project, the first thing we did was create a private Slack channel so all of our communication would be in one place. We also accommodated to everyone’s busy schedule, and were able to meet over the weekend when everyone was available. Additionally, everyone in our group had specific tasks and those were as follows:
