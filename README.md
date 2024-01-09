@@ -1,4 +1,4 @@
-# passport-visualization-project
+<img width="1468" alt="Screenshot 2024-01-09 at 9 25 26 AM" src="https://github.com/r-ellis-porter/passport-visualization-project/assets/143370584/f902c045-219a-4614-bfdb-d4f417e13275"># passport-visualization-project
 
 The classmates working on this project are Alexandra Turner, Ellis Porter, Isha Chaware, Julia Dettman, and Xiang Li. 
 
@@ -15,6 +15,11 @@ To use the Interactive Visa Requirement Map:
 2. Use the drop down menu on the top left to view its specific visa requirements.
 3. Use the legend to understand the color coding for different visa statuses.
 4. For detailed information, click on the country to view the specific visa requirements and procedures.
+
+<img width="1468" alt="Screenshot 2024-01-09 at 9 25 26 AM" src="https://github.com/r-ellis-porter/passport-visualization-project/assets/143370584/a3c9a3d7-be6e-468c-9f8e-9cb67649bbe3">
+
+
+<img width="1465" alt="Screenshot 2024-01-09 at 9 25 42 AM" src="https://github.com/r-ellis-porter/passport-visualization-project/assets/143370584/d25059d5-f46f-4f80-a4a7-6058e8c51376">
 
 
 
