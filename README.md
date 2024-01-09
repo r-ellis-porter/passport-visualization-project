@@ -1,7 +1,5 @@
 The classmates working on this project are Alexandra Turner, Ellis Porter, Isha Chaware, Julia Dettman, and Xiang Li. 
 
-![Image Alt Text](/Static/Images/background_image.png)
-
     * An overview of the project and its purpose
 The Interactive Visa Requirement Map is a tool designed to simplify the process of understanding global travel restrictions and visa requirements. Its primary purpose is to provide travelers with an easy-to-use, visual representation of the visa requirements for different countries, indicating whether a visa is required, visa-free, not admitted, visa on arrival, or if an e-visa is required.
 
