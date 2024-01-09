@@ -31,14 +31,14 @@ To use the Interactive Visa Requirement Map:
 * Cultural Sensitivity: Presenting information in a manner that is respectful and sensitive to different cultures and practices.
 
 
-    * References for the data source(s)
+      References for the data source(s)
 - https://www.naturalearthdata.com/ - where we found the country boundary data 
 - https://github.com/ilyankou/passport-index-dataset - passport entry data 
 - https://developers.google.com/public-data/docs/canonical/countries_csv - iso2 country data
 
 
 
-    * References for any code used that is not your own
+      References for any code used that is not your own
 - https://www.digitalocean.com/community/tutorials/how-to-use-a-postgresql-database-in-a-flask-application - used to learn how to use Postgres in Flask
 - https://cdn.insuremytrip.com/resources/30983/do-i-need-a-passport.jpg - background image ref
 
